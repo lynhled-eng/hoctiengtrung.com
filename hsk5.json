@@ -1,0 +1,5367 @@
+[
+  {
+    "h": "#separator:tab",
+    "p": "",
+    "m": ""
+  },
+  {
+    "h": "#html:false",
+    "p": "",
+    "m": ""
+  },
+  {
+    "h": "岸",
+    "p": "àn",
+    "m": "(n) bờ (sông, biển)"
+  },
+  {
+    "h": "岸上",
+    "p": "àn shàng",
+    "m": "trên bờ"
+  },
+  {
+    "h": "按摩",
+    "p": "ànmó",
+    "m": "massage, xoa bóp"
+  },
+  {
+    "h": "安慰",
+    "p": "ānwèi",
+    "m": "(v) an ủi, vỗ về"
+  },
+  {
+    "h": "拔",
+    "p": "bá",
+    "m": "nhổ, rút; tuốt"
+  },
+  {
+    "h": "白酒",
+    "p": "bái jiǔ",
+    "m": "rượu trắng"
+  },
+  {
+    "h": "拜访",
+    "p": "bàifǎng",
+    "m": "(v) thăm, viếng thăm (trang trọng)"
+  },
+  {
+    "h": "版",
+    "p": "bǎn",
+    "m": "(n) bản (in), phiên bản"
+  },
+  {
+    "h": "扮演",
+    "p": "bànyǎn",
+    "m": "đóng vai"
+  },
+  {
+    "h": "棒",
+    "p": "bàng",
+    "m": "cây gậygiỏi, tuyệt"
+  },
+  {
+    "h": "报答",
+    "p": "bàodá",
+    "m": "báo đáp"
+  },
+  {
+    "h": "报警",
+    "p": "bàojǐng",
+    "m": "báo cảnh sát"
+  },
+  {
+    "h": "保卫",
+    "p": "bǎowèi",
+    "m": "bảo vệ"
+  },
+  {
+    "h": "包围",
+    "p": "bāowéi",
+    "m": "bao vây"
+  },
+  {
+    "h": "保养",
+    "p": "bǎoyǎng",
+    "m": "bảo dưỡng"
+  },
+  {
+    "h": "抱怨",
+    "p": "bàoyuàn",
+    "m": "phàn nàn; than phiền"
+  },
+  {
+    "h": "包装",
+    "p": "bāozhuāng",
+    "m": "(v) đóng gói (n) bao bì"
+  },
+  {
+    "h": "辈",
+    "p": "bèi",
+    "m": "đời, thế hệ, lứa"
+  },
+  {
+    "h": "悲剧",
+    "p": "bēi jù",
+    "m": "(n) bi kịch, thảm kịch"
+  },
+  {
+    "h": "悲伤",
+    "p": "bēi shāng",
+    "m": "bi thương; đau buồn"
+  },
+  {
+    "h": "背包",
+    "p": "bēi bāo",
+    "m": "ba lô"
+  },
+  {
+    "h": "被动",
+    "p": "bèidòng",
+    "m": "(adj) bị động, thụ động"
+  },
+  {
+    "h": "北极",
+    "p": "běijí",
+    "m": "Bắc Cực"
+  },
+  {
+    "h": "本人",
+    "p": "běnrén",
+    "m": "bản thân"
+  },
+  {
+    "h": "必",
+    "p": "bì",
+    "m": "nhất định, cần phải"
+  },
+  {
+    "h": "闭幕",
+    "p": "bì mù",
+    "m": "bế mạc"
+  },
+  {
+    "h": "闭幕式",
+    "p": "bì mù shì",
+    "m": "lễ bế mạc"
+  },
+  {
+    "h": "必需",
+    "p": "bì xū",
+    "m": "cần thiết, thiết yếu (nhấn mạnh tính bắt buộc phải có)"
+  },
+  {
+    "h": "变动",
+    "p": "biàn dòng",
+    "m": "biến động"
+  },
+  {
+    "h": "编辑",
+    "p": "biānji",
+    "m": "biên tập viên; người chỉnh sửa"
+  },
+  {
+    "h": "编辑",
+    "p": "biānjí",
+    "m": "(v) biên tập, chỉnh sửa"
+  },
+  {
+    "h": "边境",
+    "p": "biānjìng",
+    "m": "biên giới"
+  },
+  {
+    "h": "便利",
+    "p": "biànlì",
+    "m": "tiện lợi; thuận tiện"
+  },
+  {
+    "h": "便条",
+    "p": "biàntiáo",
+    "m": "(n) giấy nhắn, mẩu giấy ghi chú"
+  },
+  {
+    "h": "便于",
+    "p": "biànyú",
+    "m": "thuận tiện cho"
+  },
+  {
+    "h": "彼此",
+    "p": "bǐcǐ",
+    "m": "(đại từ) nhau, lẫn nhau"
+  },
+  {
+    "h": "比方",
+    "p": "bǐfāng",
+    "m": "(n) ví dụ"
+  },
+  {
+    "h": "毕竟",
+    "p": "bìjìng",
+    "m": "cuối cùng thì, suy cho cùng, chung quy"
+  },
+  {
+    "h": "饼",
+    "p": "bǐng",
+    "m": "bánh"
+  },
+  {
+    "h": "病毒",
+    "p": "bìngdú",
+    "m": "vi rút"
+  },
+  {
+    "h": "饼干",
+    "p": "bǐnggān",
+    "m": "bánh quy"
+  },
+  {
+    "h": "宾馆",
+    "p": "bīnguǎn",
+    "m": "khách sạn (nhỏ, bình dân)"
+  },
+  {
+    "h": "比重",
+    "p": "bǐzhòng",
+    "m": "tỷ trọng"
+  },
+  {
+    "h": "鼻子",
+    "p": "bízi",
+    "m": "cái mũi"
+  },
+  {
+    "h": "博客",
+    "p": "bó kè",
+    "m": "Blog"
+  },
+  {
+    "h": "博览会",
+    "p": "bólǎnhuì",
+    "m": "hội chợ triển lãm"
+  },
+  {
+    "h": "玻璃",
+    "p": "bōli",
+    "m": "(n) kính; thủy tinh"
+  },
+  {
+    "h": "薄弱",
+    "p": "bóruò",
+    "m": "yếu, mỏng manh"
+  },
+  {
+    "h": "博士",
+    "p": "bóshì",
+    "m": "tiến sĩ"
+  },
+  {
+    "h": "博物馆",
+    "p": "bówùguǎn",
+    "m": "viện bảo tàng"
+  },
+  {
+    "h": "不利",
+    "p": "bú lì",
+    "m": "bất lợi"
+  },
+  {
+    "h": "不良",
+    "p": "bù liáng",
+    "m": "(adj) xấu, không tốt, có hại"
+  },
+  {
+    "h": "不能不",
+    "p": "bù néng bù",
+    "m": "không thể không"
+  },
+  {
+    "h": "不停",
+    "p": "bù tíng",
+    "m": "không ngừng"
+  },
+  {
+    "h": "不幸",
+    "p": "bú xìng",
+    "m": "bất hạnh"
+  },
+  {
+    "h": "不许",
+    "p": "bù xǔ",
+    "m": "không được; không được phép; không cho phép"
+  },
+  {
+    "h": "不易",
+    "p": "bú yì",
+    "m": "không dễ"
+  },
+  {
+    "h": "不曾",
+    "p": "bù céng",
+    "m": "chưa từng"
+  },
+  {
+    "h": "补偿",
+    "p": "bǔcháng",
+    "m": "bồi thường, đền bù"
+  },
+  {
+    "h": "不得了",
+    "p": "búdéliǎo",
+    "m": "rất, cực kỳ, ghê gớm; khủng khiếp (nhấn mạnh mức độ – thường dùng trong khẩu ngữ)"
+  },
+  {
+    "h": "不敢当",
+    "p": "bùgǎndāng",
+    "m": "(thành ngữ) không dám nhận (lời khen)"
+  },
+  {
+    "h": "不顾",
+    "p": "búgù",
+    "m": "bất chấp"
+  },
+  {
+    "h": "不免",
+    "p": "bùmiǎn",
+    "m": "(adv) không tránh khỏi, khó tránh"
+  },
+  {
+    "h": "不耐烦",
+    "p": "búnàifán",
+    "m": "(adj) không kiên nhẫn, cáu kỉnh"
+  },
+  {
+    "h": "不时",
+    "p": "bùshí",
+    "m": "(adv) thỉnh thoảng"
+  },
+  {
+    "h": "补贴",
+    "p": "bǔtiē",
+    "m": "trợ cấp"
+  },
+  {
+    "h": "部位",
+    "p": "bùwèi",
+    "m": "bộ phận, vị trí"
+  },
+  {
+    "h": "不止",
+    "p": "bùzhǐ",
+    "m": "(adv) không chỉ, hơn"
+  },
+  {
+    "h": "不足",
+    "p": "bùzú",
+    "m": "không đủ"
+  },
+  {
+    "h": "猜",
+    "p": "cāi",
+    "m": "đoán"
+  },
+  {
+    "h": "猜测",
+    "p": "cāi cè",
+    "m": "phỏng đoán, suy đoán"
+  },
+  {
+    "h": "采购",
+    "p": "cǎigòu",
+    "m": "(n) thu mua; mua sắm (đặc biệt dùng trong lĩnh vực kinh doanh, công ty, tổ chức)"
+  },
+  {
+    "h": "裁判",
+    "p": "cáipàn",
+    "m": "trọng tài"
+  },
+  {
+    "h": "彩票",
+    "p": "cǎipiào",
+    "m": "vé số; xổ số"
+  },
+  {
+    "h": "餐馆",
+    "p": "cān guǎn",
+    "m": "nhà hàng; quán ăn"
+  },
+  {
+    "h": "餐饮",
+    "p": "cān yǐn",
+    "m": "(n) ăn uống, dịch vụ ăn uống"
+  },
+  {
+    "h": "餐厅",
+    "p": "cāntīng",
+    "m": "(n) nhà hàng, phòng ăn"
+  },
+  {
+    "h": "草原",
+    "p": "cǎo yuán",
+    "m": "thảo nguyên"
+  },
+  {
+    "h": "册",
+    "p": "cè",
+    "m": "(lượng từ) cuốn (sách)"
+  },
+  {
+    "h": "层次",
+    "p": "céngcì",
+    "m": "(n) tầng lớp, cấp độ"
+  },
+  {
+    "h": "辞典",
+    "p": "cí diǎn",
+    "m": "từ điển"
+  },
+  {
+    "h": "此后",
+    "p": "cǐ hòu",
+    "m": "từ đó về sau"
+  },
+  {
+    "h": "此刻",
+    "p": "cǐ kè",
+    "m": "lúc này; thời khắc này"
+  },
+  {
+    "h": "此时",
+    "p": "cǐ shí",
+    "m": "lúc này (trang trọng)"
+  },
+  {
+    "h": "辞职",
+    "p": "cízhí",
+    "m": "từ chức, nghỉ việc"
+  },
+  {
+    "h": "从中",
+    "p": "cóng zhōng",
+    "m": "(giới từ) từ trong đó"
+  },
+  {
+    "h": "从而",
+    "p": "cóng’ér",
+    "m": "(liên) do đó, từ đó (dùng để chỉ kết quả hoặc hậu quả của một hành động, dùng trong văn viết)"
+  },
+  {
+    "h": "聪明",
+    "p": "cōngming",
+    "m": "thông minh"
+  },
+  {
+    "h": "脆",
+    "p": "cuì",
+    "m": "(adj) giòn"
+  },
+  {
+    "h": "寸",
+    "p": "cùn",
+    "m": "tấc (đơn vị đo chiều dài = 3,33cm)"
+  },
+  {
+    "h": "存款",
+    "p": "cún kuǎn",
+    "m": "gửi ngân hàng; tiền gửi ngân hàng"
+  },
+  {
+    "h": "叉",
+    "p": "chā",
+    "m": "cái nĩa; cái xiên"
+  },
+  {
+    "h": "插",
+    "p": "chā",
+    "m": "(v) cắm; chèn; xen vào"
+  },
+  {
+    "h": "查询",
+    "p": "chá xún",
+    "m": "(v) tra cứu"
+  },
+  {
+    "h": "差（一）点儿",
+    "p": "chā（yì）diǎnr",
+    "m": "suýt nữa thì… / thiếu chút nữa thì…"
+  },
+  {
+    "h": "差别",
+    "p": "chābié",
+    "m": "(n) sự khác biệt"
+  },
+  {
+    "h": "拆",
+    "p": "chāi",
+    "m": "(v) tháo, dỡ"
+  },
+  {
+    "h": "拆除",
+    "p": "chāi chú",
+    "m": "(v) phá dỡ, tháo bỏ"
+  },
+  {
+    "h": "差距",
+    "p": "chājù",
+    "m": "(n) sự chênh lệch"
+  },
+  {
+    "h": "产业",
+    "p": "chǎnyè",
+    "m": "(n) ngành nghề, ngành sản xuất, công nghiệp"
+  },
+  {
+    "h": "尝",
+    "p": "cháng",
+    "m": "nếm thử"
+  },
+  {
+    "h": "肠",
+    "p": "cháng",
+    "m": "ruột"
+  },
+  {
+    "h": "长度",
+    "p": "cháng dù",
+    "m": "(n) độ dài; chiều dài"
+  },
+  {
+    "h": "长寿",
+    "p": "cháng shòu",
+    "m": "trường thọ; sống lâu"
+  },
+  {
+    "h": "厂长",
+    "p": "chǎng zhǎng",
+    "m": "xưởng trưởng; quản đốc"
+  },
+  {
+    "h": "倡导",
+    "p": "chàngdǎo",
+    "m": "khởi xướng, đề xướng; kêu gọi"
+  },
+  {
+    "h": "场面",
+    "p": "chǎngmiàn",
+    "m": "quang cảnh, cảnh tượng, tình huống (trước mắt)"
+  },
+  {
+    "h": "尝试",
+    "p": "chángshì",
+    "m": "thử (thử làm một việc, thử cách làm mới, thử xem có thành công không, mang tính trừu tượng, hành động, phương pháp.)"
+  },
+  {
+    "h": "超越",
+    "p": "chāoyuè",
+    "m": "vượt qua"
+  },
+  {
+    "h": "叉子",
+    "p": "chāzi",
+    "m": "cái nĩa, cái xiên"
+  },
+  {
+    "h": "车主",
+    "p": "chē zhǔ",
+    "m": "chủ xe"
+  },
+  {
+    "h": "乘",
+    "p": "chéng",
+    "m": "đi (xe, tàu...)nhân (toán)"
+  },
+  {
+    "h": "称",
+    "p": "chēng",
+    "m": "(v) gọi là, xưng là"
+  },
+  {
+    "h": "乘车",
+    "p": "chéng chē",
+    "m": "ngồi xe, đi xe"
+  },
+  {
+    "h": "乘客",
+    "p": "chéng kè",
+    "m": "hành khách"
+  },
+  {
+    "h": "城里",
+    "p": "chéng lǐ",
+    "m": "trong thành phố"
+  },
+  {
+    "h": "承办",
+    "p": "chéngbàn",
+    "m": "đảm nhận tổ chức; đứng ra tổ chức (sự kiện)"
+  },
+  {
+    "h": "成本",
+    "p": "chéngběn",
+    "m": "(n) giá thành (sản phẩm); chi phí (sản xuất)"
+  },
+  {
+    "h": "称号",
+    "p": "chēnghào",
+    "m": "danh hiệu"
+  },
+  {
+    "h": "成交",
+    "p": "chéngjiāo",
+    "m": "giao dịch thành công, chốt giao dịch"
+  },
+  {
+    "h": "成效",
+    "p": "chéngxiào",
+    "m": "hiệu quả, kết quả"
+  },
+  {
+    "h": "成语",
+    "p": "chéngyǔ",
+    "m": "thành ngữ"
+  },
+  {
+    "h": "乘坐",
+    "p": "chéngzuò",
+    "m": "ngồi xe, đi xe (buýt, máy bay...)"
+  },
+  {
+    "h": "迟",
+    "p": "chí",
+    "m": "muộn, chậm, trễ"
+  },
+  {
+    "h": "池子",
+    "p": "chízi",
+    "m": "ao"
+  },
+  {
+    "h": "吃力",
+    "p": "chīlì",
+    "m": "tốn sức, vất vả, khó khăn (vì phải dùng nhiều sức hoặc vượt quá khả năng)"
+  },
+  {
+    "h": "冲动",
+    "p": "chōngdòng",
+    "m": "bốc đồng, nóng nảy, hành động theo cảm xúc nhất thời"
+  },
+  {
+    "h": "冲突",
+    "p": "chōngtū",
+    "m": "xung đột"
+  },
+  {
+    "h": "充足",
+    "p": "chōngzú",
+    "m": "đầy đủ, sung túc"
+  },
+  {
+    "h": "臭",
+    "p": "chòu",
+    "m": "(adj) hôi; thối"
+  },
+  {
+    "h": "愁",
+    "p": "chóu",
+    "m": "sầu, lo"
+  },
+  {
+    "h": "丑",
+    "p": "chǒu",
+    "m": "(adj) xấu; xấu xí"
+  },
+  {
+    "h": "出于",
+    "p": "chū yú",
+    "m": "(phó) xuất phát từ; vì lí do (chỉ nguyên nhân)(phó) bắt nguồn từ"
+  },
+  {
+    "h": "处罚",
+    "p": "chǔ fá",
+    "m": "xử phạt"
+  },
+  {
+    "h": "出汗",
+    "p": "chū hàn",
+    "m": "ra mồ hôi"
+  },
+  {
+    "h": "初期",
+    "p": "chū qī",
+    "m": "giai đoạn đầu; thời kỳ đầu; thuở đầu"
+  },
+  {
+    "h": "处在",
+    "p": "chǔ zài",
+    "m": "đang ở trong (trạng thái)"
+  },
+  {
+    "h": "传递",
+    "p": "chuán dì",
+    "m": "truyền tải, chuyển"
+  },
+  {
+    "h": "传达",
+    "p": "chuándá",
+    "m": "truyền đạt"
+  },
+  {
+    "h": "传真",
+    "p": "chuánzhēn",
+    "m": "fax, bản fax"
+  },
+  {
+    "h": "闯",
+    "p": "chuǎng",
+    "m": "xông vào, lao vào"
+  },
+  {
+    "h": "创立",
+    "p": "chuànglì",
+    "m": "sáng lập, thành lập"
+  },
+  {
+    "h": "窗帘",
+    "p": "chuānglián",
+    "m": "rèm cửa sổ"
+  },
+  {
+    "h": "出版",
+    "p": "chūbǎn",
+    "m": "xuất bản"
+  },
+  {
+    "h": "出差",
+    "p": "chūchāi",
+    "m": "đi công tác"
+  },
+  {
+    "h": "厨房",
+    "p": "chúfáng",
+    "m": "nhà bếp"
+  },
+  {
+    "h": "除非",
+    "p": "chúfēi",
+    "m": "(liên) trừ phi; trừ khi"
+  },
+  {
+    "h": "处分",
+    "p": "chǔfèn",
+    "m": "kỷ luật, xử phạt (trong tổ chức)"
+  },
+  {
+    "h": "除夕",
+    "p": "chúxī",
+    "m": "giao thừa"
+  },
+  {
+    "h": "答",
+    "p": "dá",
+    "m": "đáp, trả lời"
+  },
+  {
+    "h": "打",
+    "p": "dǎ",
+    "m": "(giới từ) từ; kể từ"
+  },
+  {
+    "h": "大都",
+    "p": "dà dōu",
+    "m": "(adv) phần lớn, đa phần (trang trọng)"
+  },
+  {
+    "h": "大胆",
+    "p": "dà dǎn",
+    "m": "mạnh dạn; táo bạo; to gan"
+  },
+  {
+    "h": "大奖赛",
+    "p": "dà jiǎng sài",
+    "m": "(n) giải đua lớn (grand prix)"
+  },
+  {
+    "h": "大脑",
+    "p": "dà nǎo",
+    "m": "đại não, bộ não"
+  },
+  {
+    "h": "大事",
+    "p": "dà shì",
+    "m": "đại sự, việc lớn, sự kiện lớn"
+  },
+  {
+    "h": "大厅",
+    "p": "dà tīng",
+    "m": "đại sảnh"
+  },
+  {
+    "h": "大熊猫",
+    "p": "dà xióng māo",
+    "m": "gấu trúc"
+  },
+  {
+    "h": "大于",
+    "p": "dà yú",
+    "m": "(v) lớn hơn"
+  },
+  {
+    "h": "大纲",
+    "p": "dà gāng",
+    "m": "(n) đề cương, dàn bài"
+  },
+  {
+    "h": "打扮",
+    "p": "dǎban",
+    "m": "chải chuốt, trang điểm, ăn mặc"
+  },
+  {
+    "h": "打包",
+    "p": "dǎbāo",
+    "m": "(v) đóng gói, gói mang về"
+  },
+  {
+    "h": "达成",
+    "p": "dáchéng",
+    "m": "(v) đạt thành, đạt được (thỏa thuận)"
+  },
+  {
+    "h": "答复",
+    "p": "dáfù",
+    "m": "trả lời, phúc đáp"
+  },
+  {
+    "h": "大伙儿",
+    "p": "dàhuǒr",
+    "m": "(n) mọi người, các bạn (khẩu ngữ)"
+  },
+  {
+    "h": "呆",
+    "p": "dāi",
+    "m": "(v) ở lại, nán lại (khẩu ngữ)(adj) ngẩn ngơ"
+  },
+  {
+    "h": "待",
+    "p": "dāi",
+    "m": "ở lại"
+  },
+  {
+    "h": "带有",
+    "p": "dài yǒu",
+    "m": "mang theo, có chứa, mang tính chất hoặc có sắc thái"
+  },
+  {
+    "h": "代价",
+    "p": "dàijià",
+    "m": "cái giá phải trả, sự đánh đổi"
+  },
+  {
+    "h": "贷款",
+    "p": "dàikuǎn",
+    "m": "(v) vay vốn; cho vay (n) khoản vay"
+  },
+  {
+    "h": "代理",
+    "p": "dàilǐ",
+    "m": "đại lý"
+  },
+  {
+    "h": "打击",
+    "p": "dǎjī",
+    "m": "đả kích, trấn áp"
+  },
+  {
+    "h": "打架",
+    "p": "dǎjià",
+    "m": "đánh nhau"
+  },
+  {
+    "h": "胆",
+    "p": "dǎn",
+    "m": "(n) túi mật(adj) táo bạo, gan dạ"
+  },
+  {
+    "h": "胆小",
+    "p": "dǎn xiǎo",
+    "m": "nhút nhát, nhát gan"
+  },
+  {
+    "h": "单一",
+    "p": "dān yī",
+    "m": "đơn nhất, đơn điệu, không đa dạng (thường nói về hình thức, nguồn gốc, thành phần, cách thức…)"
+  },
+  {
+    "h": "挡",
+    "p": "dǎng",
+    "m": "chắn; che chắn"
+  },
+  {
+    "h": "当年",
+    "p": "dāng nián",
+    "m": "năm đó; lúc đấy"
+  },
+  {
+    "h": "蛋糕",
+    "p": "dàngāo",
+    "m": "bánh ngọt, bánh gato"
+  },
+  {
+    "h": "当场",
+    "p": "dāngchǎng",
+    "m": "tại chỗ, ngay tại nơi"
+  },
+  {
+    "h": "当代",
+    "p": "dāngdài",
+    "m": "đương đại"
+  },
+  {
+    "h": "当前",
+    "p": "dāngqián",
+    "m": "hiện nay, hiện tại"
+  },
+  {
+    "h": "当选",
+    "p": "dāngxuǎn",
+    "m": "được bầu, trúng cử"
+  },
+  {
+    "h": "到来",
+    "p": "dào lái",
+    "m": "đến nơi; sự đến"
+  },
+  {
+    "h": "倒是",
+    "p": "dào shì",
+    "m": "thì (biểu thị sự việc không phải như vậy); trái lại; ngược lại"
+  },
+  {
+    "h": "道德",
+    "p": "dàodé",
+    "m": "đạo đức"
+  },
+  {
+    "h": "打扰",
+    "p": "dǎrǎo",
+    "m": "(v) làm phiền, quấy rầy"
+  },
+  {
+    "h": "大象",
+    "p": "dàxiàng",
+    "m": "con voi"
+  },
+  {
+    "h": "大致",
+    "p": "dàzhì",
+    "m": "đại khái, nhìn chung, ước chừng (không chính xác tuyệt đối)"
+  },
+  {
+    "h": "得了",
+    "p": "dé le",
+    "m": "bị; mắc (bệnh)thôi đi; xong rồi (cảm thán)"
+  },
+  {
+    "h": "得以",
+    "p": "dé yǐ",
+    "m": "được; có thể; nhờ đó mà có thể (diễn đạt kết quả tích cực nhờ điều kiện/nguyên nhân phía trước)"
+  },
+  {
+    "h": "等候",
+    "p": "děnghòu",
+    "m": "đợi, chờ (trang trọng)"
+  },
+  {
+    "h": "等级",
+    "p": "děngjí",
+    "m": "cấp bậc, đẳng cấp"
+  },
+  {
+    "h": "递",
+    "p": "dì",
+    "m": "chuyển, đưa (diễn tả hành động chuyển hoặc đưa vật gì đó từ người này sang người khác)"
+  },
+  {
+    "h": "低于",
+    "p": "dī yú",
+    "m": "thấp hơn, dưới"
+  },
+  {
+    "h": "地带",
+    "p": "dì dài",
+    "m": "vùng; khu vực"
+  },
+  {
+    "h": "递给",
+    "p": "dì gěi",
+    "m": "đưa cho, chuyển cho"
+  },
+  {
+    "h": "地形",
+    "p": "dì xíng",
+    "m": "địa hình"
+  },
+  {
+    "h": "电饭锅",
+    "p": "diàn fàn guō",
+    "m": "nồi cơm điện"
+  },
+  {
+    "h": "点燃",
+    "p": "diǎn rán",
+    "m": "châm; đốt; nhóm"
+  },
+  {
+    "h": "电子版",
+    "p": "diàn zǐ bǎn",
+    "m": "bản điện tử"
+  },
+  {
+    "h": "电池",
+    "p": "diànchí",
+    "m": "pin"
+  },
+  {
+    "h": "典礼",
+    "p": "diǎnlǐ",
+    "m": "lễ, buổi lễ"
+  },
+  {
+    "h": "调动",
+    "p": "diàodòng",
+    "m": "điều động"
+  },
+  {
+    "h": "丢",
+    "p": "diū",
+    "m": "1. (v) mất, thất lạc 2. (v) ném, vứt, quăng"
+  },
+  {
+    "h": "地震",
+    "p": "dìzhèn",
+    "m": "động đất"
+  },
+  {
+    "h": "冻",
+    "p": "dòng",
+    "m": "đông lại; đóng băng"
+  },
+  {
+    "h": "洞",
+    "p": "dòng",
+    "m": "hang, lỗ"
+  },
+  {
+    "h": "动机",
+    "p": "dòngjī",
+    "m": "động cơ"
+  },
+  {
+    "h": "动手",
+    "p": "dòngshǒu",
+    "m": "bắt tay vào làm; tự tay làmra tay, dùng vũ lực (đánh nhau, hành hung)"
+  },
+  {
+    "h": "动态",
+    "p": "dòngtài",
+    "m": "động thái"
+  },
+  {
+    "h": "动员",
+    "p": "dòngyuán",
+    "m": "động viên; huy động"
+  },
+  {
+    "h": "豆制品",
+    "p": "dòu zhì pǐn",
+    "m": "sản phẩm từ đậu"
+  },
+  {
+    "h": "毒",
+    "p": "dú",
+    "m": "độc"
+  },
+  {
+    "h": "堆",
+    "p": "duī",
+    "m": "(lượng) đống (1 đống gì đó: đống cát,..)"
+  },
+  {
+    "h": "对立",
+    "p": "duìlì",
+    "m": "đối lập"
+  },
+  {
+    "h": "对应",
+    "p": "duìyìng",
+    "m": "đối ứng, tương ứng"
+  },
+  {
+    "h": "吨",
+    "p": "dūn",
+    "m": "(lượng từ) tấn"
+  },
+  {
+    "h": "朵",
+    "p": "duǒ",
+    "m": "(lượng từ) bông (hoa)"
+  },
+  {
+    "h": "躲",
+    "p": "duǒ",
+    "m": "(v) trốn, tránh, né"
+  },
+  {
+    "h": "儿女",
+    "p": "ér nǚ",
+    "m": "con cái, nam nữ; trai gái"
+  },
+  {
+    "h": "二维码",
+    "p": "èr wéi mǎ",
+    "m": "mã QR"
+  },
+  {
+    "h": "耳朵",
+    "p": "ěrduo",
+    "m": "tai"
+  },
+  {
+    "h": "罚",
+    "p": "fá",
+    "m": "(v) phạt"
+  },
+  {
+    "h": "法规",
+    "p": "fǎ guī",
+    "m": "pháp quy; quy định pháp luật"
+  },
+  {
+    "h": "法制",
+    "p": "fǎ zhì",
+    "m": "pháp chế"
+  },
+  {
+    "h": "发布",
+    "p": "fābù",
+    "m": "phát hành, công bố"
+  },
+  {
+    "h": "发觉",
+    "p": "fājué",
+    "m": "phát giác, phát hiện ra, nhận ra"
+  },
+  {
+    "h": "罚款",
+    "p": "fákuǎn",
+    "m": "phạt tiền (trang trọng)"
+  },
+  {
+    "h": "返回",
+    "p": "fǎn huí",
+    "m": "quay lại. trở về"
+  },
+  {
+    "h": "繁荣",
+    "p": "fánróng",
+    "m": "phồn vinh"
+  },
+  {
+    "h": "放大",
+    "p": "fàngdà",
+    "m": "phóng đại; phóng to"
+  },
+  {
+    "h": "放弃",
+    "p": "fàngqì",
+    "m": "từ bỏ, bỏ cuộc"
+  },
+  {
+    "h": "防治",
+    "p": "fángzhì",
+    "m": "phòng trị, phòng và chữa (bệnh)"
+  },
+  {
+    "h": "发射",
+    "p": "fāshè",
+    "m": "(v) phóng, bắn, phát xạ"
+  },
+  {
+    "h": "发行",
+    "p": "fāxíng",
+    "m": "phát hành"
+  },
+  {
+    "h": "分类",
+    "p": "fēn lèi",
+    "m": "phân loại"
+  },
+  {
+    "h": "分享",
+    "p": "fēn xiǎng",
+    "m": "chia sẻ"
+  },
+  {
+    "h": "分成",
+    "p": "fēn chéng",
+    "m": "chia thành; phân thành"
+  },
+  {
+    "h": "分离",
+    "p": "fēn lí",
+    "m": "phân ly; tách rời; chia ra; rời xa nhau"
+  },
+  {
+    "h": "分解",
+    "p": "fēnjiě",
+    "m": "phân giải"
+  },
+  {
+    "h": "分析",
+    "p": "fēnxī",
+    "m": "phân tích"
+  },
+  {
+    "h": "封",
+    "p": "fēng",
+    "m": "bức (lượng từ cho thư)"
+  },
+  {
+    "h": "疯",
+    "p": "fēng",
+    "m": "(adj) điên, khùng"
+  },
+  {
+    "h": "风度",
+    "p": "fēngdù",
+    "m": "phong độ"
+  },
+  {
+    "h": "风光",
+    "p": "fēngguāng",
+    "m": "(n) phong cảnh"
+  },
+  {
+    "h": "疯狂",
+    "p": "fēngkuáng",
+    "m": "điên cuồng; điên rồ"
+  },
+  {
+    "h": "丰收",
+    "p": "fēngshōu",
+    "m": "bội thu, mùa màng tốt"
+  },
+  {
+    "h": "幅",
+    "p": "fú",
+    "m": "tấm; bức ( tranh )"
+  },
+  {
+    "h": "扶",
+    "p": "fú",
+    "m": "nâng, dìu, đỡ"
+  },
+  {
+    "h": "负责人",
+    "p": "fù zé rén",
+    "m": "người phụ trách"
+  },
+  {
+    "h": "服从",
+    "p": "fúcóng",
+    "m": "phục tùng; tuân theo"
+  },
+  {
+    "h": "幅度",
+    "p": "fúdù",
+    "m": "biên độ, mức độ, phạm vi"
+  },
+  {
+    "h": "附件",
+    "p": "fùjiàn",
+    "m": "(n) phụ kiện, tệp đính kèm"
+  },
+  {
+    "h": "福利",
+    "p": "fúlì",
+    "m": "phúc lợi"
+  },
+  {
+    "h": "辅助",
+    "p": "fǔzhù",
+    "m": "phụ trợ; hỗ trợ"
+  },
+  {
+    "h": "改革",
+    "p": "gǎigé",
+    "m": "cải cách"
+  },
+  {
+    "h": "干脆",
+    "p": "gāncuì",
+    "m": "dứt khoát, thẳng thắn"
+  },
+  {
+    "h": "干扰",
+    "p": "gānrǎo",
+    "m": "gây nhiều; làm phiền"
+  },
+  {
+    "h": "感想",
+    "p": "gǎnxiǎng",
+    "m": "cảm tưởng, cảm nghĩ"
+  },
+  {
+    "h": "干预",
+    "p": "gānyù",
+    "m": "can dự, can thiệp"
+  },
+  {
+    "h": "钢笔",
+    "p": "gāng bǐ",
+    "m": "(n) bút mực, bút máy"
+  },
+  {
+    "h": "钢琴",
+    "p": "gāng qín",
+    "m": "piano"
+  },
+  {
+    "h": "搞",
+    "p": "gǎo",
+    "m": "làm; thực hiện"
+  },
+  {
+    "h": "高跟鞋",
+    "p": "gāo gēn xié",
+    "m": "giày cao gót"
+  },
+  {
+    "h": "高温",
+    "p": "gāo wēn",
+    "m": "nhiệt độ cao"
+  },
+  {
+    "h": "高于",
+    "p": "gāo yú",
+    "m": "(v) cao hơn"
+  },
+  {
+    "h": "高原",
+    "p": "gāo yuán",
+    "m": "cao nguyên"
+  },
+  {
+    "h": "高大",
+    "p": "gāo dà",
+    "m": "cao to; cao lớn"
+  },
+  {
+    "h": "高度",
+    "p": "gāo dù",
+    "m": "cao độ, độ cao"
+  },
+  {
+    "h": "搞好",
+    "p": "gǎo hǎo",
+    "m": "làm tốt; thực hiện tốt"
+  },
+  {
+    "h": "歌曲",
+    "p": "gē qǔ",
+    "m": "ca khúc, bài hát"
+  },
+  {
+    "h": "隔壁",
+    "p": "gébì",
+    "m": "sát vách; bên cạnh; láng giềng; nhà bên"
+  },
+  {
+    "h": "跟前",
+    "p": "gēnqián",
+    "m": "trước mặt"
+  },
+  {
+    "h": "跟随",
+    "p": "gēnsuí",
+    "m": "theo sau, đi theo"
+  },
+  {
+    "h": "更换",
+    "p": "gēng huàn",
+    "m": "thay đổi; đổi; thay; thế; thay thế"
+  },
+  {
+    "h": "更新",
+    "p": "gēngxīn",
+    "m": "(v) cập nhật (update)"
+  },
+  {
+    "h": "个儿",
+    "p": "gèr",
+    "m": "vóc dáng; thân hình; số đo; kích thước"
+  },
+  {
+    "h": "共享",
+    "p": "gòng xiǎng",
+    "m": "cùng hưởng, chia sẻ chung"
+  },
+  {
+    "h": "工艺",
+    "p": "gōng yì",
+    "m": "quy trình kỹ thuật;  kỹ thuật chế tác"
+  },
+  {
+    "h": "工作日",
+    "p": "gōng zuò rì",
+    "m": "ngày làm việc"
+  },
+  {
+    "h": "公告",
+    "p": "gōnggào",
+    "m": "công bố; thông báo"
+  },
+  {
+    "h": "共计",
+    "p": "gòngjì",
+    "m": "tổng cộng"
+  },
+  {
+    "h": "公认",
+    "p": "gōngrèn",
+    "m": "công nhận"
+  },
+  {
+    "h": "公式",
+    "p": "gōngshì",
+    "m": "công thức"
+  },
+  {
+    "h": "公正",
+    "p": "gōngzhèng",
+    "m": "công bằng, chính trực"
+  },
+  {
+    "h": "沟",
+    "p": "gōu",
+    "m": "kênh rạch; cống; mương; rãnh"
+  },
+  {
+    "h": "沟通",
+    "p": "gōutōng",
+    "m": "giao tiếp (giao tiếp, kết nối để đạt sự hiểu biết chung)"
+  },
+  {
+    "h": "鼓",
+    "p": "gǔ",
+    "m": "cái trống"
+  },
+  {
+    "h": "古老",
+    "p": "gǔ lǎo",
+    "m": "cổ lão, cổ xưa, xa xưa"
+  },
+  {
+    "h": "怪",
+    "p": "guài",
+    "m": "(v) trách (trách móc)"
+  },
+  {
+    "h": "关键",
+    "p": "guānjiàn",
+    "m": "mấu chốt, then chốt"
+  },
+  {
+    "h": "冠军",
+    "p": "guànjūn",
+    "m": "quán quân; nhà vô địch"
+  },
+  {
+    "h": "广",
+    "p": "guǎng",
+    "m": "Quảng, rộng; rộng rãi; phổ biến"
+  },
+  {
+    "h": "光线",
+    "p": "guāng xiàn",
+    "m": "tia sáng, ánh sáng"
+  },
+  {
+    "h": "广泛",
+    "p": "guǎngfàn",
+    "m": "rộng khắp; rộng rãi"
+  },
+  {
+    "h": "光荣",
+    "p": "guāngróng",
+    "m": "vinh quang"
+  },
+  {
+    "h": "关怀",
+    "p": "guānhuái",
+    "m": "quan tâm, quan tâm đoái hoài"
+  },
+  {
+    "h": "鬼",
+    "p": "guǐ",
+    "m": "ma; quỷ"
+  },
+  {
+    "h": "柜子",
+    "p": "guì zi",
+    "m": "cái tủ"
+  },
+  {
+    "h": "规划",
+    "p": "guīhuà",
+    "m": "(n) quy hoạch (v) lập kế hoạch"
+  },
+  {
+    "h": "估计",
+    "p": "gūjì",
+    "m": "đoán chừng, dự tính, tính toán, ước lượng"
+  },
+  {
+    "h": "鼓励",
+    "p": "gǔlì",
+    "m": "cổ vũ, khích lệ"
+  },
+  {
+    "h": "滚",
+    "p": "gǔn",
+    "m": "(v) lăncút đi (mắng)"
+  },
+  {
+    "h": "锅",
+    "p": "guō",
+    "m": "cái nồi"
+  },
+  {
+    "h": "国民",
+    "p": "guó mín",
+    "m": "quốc dân, người dân của một quốc gia (cách nói mang tính chính thức)"
+  },
+  {
+    "h": "过度",
+    "p": "guòdù",
+    "m": "quá mức, quá độ"
+  },
+  {
+    "h": "国籍",
+    "p": "guójí",
+    "m": "quốc tịch"
+  },
+  {
+    "h": "过敏",
+    "p": "guòmǐn",
+    "m": "dị ứng"
+  },
+  {
+    "h": "过于",
+    "p": "guòyú",
+    "m": "(phó từ) quá, quá mức"
+  },
+  {
+    "h": "顾问",
+    "p": "gùwèn",
+    "m": "cố vấn"
+  },
+  {
+    "h": "鼓掌",
+    "p": "gǔzhǎng",
+    "m": "vỗ tay"
+  },
+  {
+    "h": "害",
+    "p": "hài",
+    "m": "hại"
+  },
+  {
+    "h": "汗",
+    "p": "hàn",
+    "m": "mồ hôi"
+  },
+  {
+    "h": "好运",
+    "p": "hǎo yùn",
+    "m": "may mắn"
+  },
+  {
+    "h": "号召",
+    "p": "hàozhào",
+    "m": "kêu gọi, hô hào"
+  },
+  {
+    "h": "盒",
+    "p": "hé",
+    "m": "(lượng từ) hộp"
+  },
+  {
+    "h": "盒饭",
+    "p": "hé fàn",
+    "m": "cơm hộp"
+  },
+  {
+    "h": "贺卡",
+    "p": "hè kǎ",
+    "m": "thiệp chúc mừng"
+  },
+  {
+    "h": "合并",
+    "p": "hébìng",
+    "m": "hợp nhất, sát nhập"
+  },
+  {
+    "h": "合成",
+    "p": "héchéng",
+    "m": "hợp thành, tổng hợp"
+  },
+  {
+    "h": "恨",
+    "p": "hèn",
+    "m": "(v) hận, thù hận, oán hận (n) mối hận, nỗi oán hận"
+  },
+  {
+    "h": "盒子",
+    "p": "hézi",
+    "m": "cái hộp"
+  },
+  {
+    "h": "猴",
+    "p": "hóu",
+    "m": "khỉ, con khỉ"
+  },
+  {
+    "h": "后悔",
+    "p": "hòuhuǐ",
+    "m": "hối hận"
+  },
+  {
+    "h": "虎",
+    "p": "hǔ",
+    "m": "hổ"
+  },
+  {
+    "h": "胡同儿",
+    "p": "hú tòngr",
+    "m": "ngõ, hẻm (ở Bắc Kinh)"
+  },
+  {
+    "h": "胡子",
+    "p": "hú zi",
+    "m": "râu"
+  },
+  {
+    "h": "滑",
+    "p": "huá",
+    "m": "(adj) trơn(adj) xảo trá; lươn lẹo(v) trượt"
+  },
+  {
+    "h": "画面",
+    "p": "huà miàn",
+    "m": "(n) màn hình, khung hình"
+  },
+  {
+    "h": "华语",
+    "p": "huá yǔ",
+    "m": "Hán Ngữ; tiếng Hoa"
+  },
+  {
+    "h": "划分",
+    "p": "huàfēn",
+    "m": "phân chia"
+  },
+  {
+    "h": "环节",
+    "p": "huánjié",
+    "m": "khâu; mắt xích"
+  },
+  {
+    "h": "慌",
+    "p": "huāng",
+    "m": "hoảng sợ; hoảng loạn"
+  },
+  {
+    "h": "慌忙",
+    "p": "huāng máng",
+    "m": "vội vàng, hốt hoảng"
+  },
+  {
+    "h": "化石",
+    "p": "huàshí",
+    "m": "hóa thạch"
+  },
+  {
+    "h": "汇款",
+    "p": "huì kuǎn",
+    "m": "chuyển tiền"
+  },
+  {
+    "h": "回信",
+    "p": "huí xìn",
+    "m": "hồi âm; trả lời thư"
+  },
+  {
+    "h": "灰色",
+    "p": "huī sè",
+    "m": "màu xám"
+  },
+  {
+    "h": "会谈",
+    "p": "huì tán",
+    "m": "hội đàm"
+  },
+  {
+    "h": "回头",
+    "p": "huí tóu",
+    "m": "quay đầusau này, để sau, dịp khác (chỉ một thời điểm không xác định trong tương lai gần)"
+  },
+  {
+    "h": "回报",
+    "p": "huíbào",
+    "m": "đền đáp, báo đáp"
+  },
+  {
+    "h": "回避",
+    "p": "huíbì",
+    "m": "(v) tránh né, lảng tránh"
+  },
+  {
+    "h": "恢复",
+    "p": "huīfù",
+    "m": "khôi phục; phục hồi"
+  },
+  {
+    "h": "回顾",
+    "p": "huígù",
+    "m": "hồi tưởng, nhìn lại"
+  },
+  {
+    "h": "回收",
+    "p": "huíshōu",
+    "m": "tái chế, thu hồi"
+  },
+  {
+    "h": "回忆",
+    "p": "huíyì",
+    "m": "hồi ức, kỉ niệm"
+  },
+  {
+    "h": "或是",
+    "p": "huò shì",
+    "m": "hoặc là"
+  },
+  {
+    "h": "火腿",
+    "p": "huǒ tuǐ",
+    "m": "giăm bông"
+  },
+  {
+    "h": "火灾",
+    "p": "huǒ zāi",
+    "m": "hoả hoạn; nạn cháy"
+  },
+  {
+    "h": "火柴",
+    "p": "huǒchái",
+    "m": "que diêm"
+  },
+  {
+    "h": "活力",
+    "p": "huólì",
+    "m": "sức sống"
+  },
+  {
+    "h": "活泼",
+    "p": "huópō",
+    "m": "hoạt bát, nhanh nhẹn"
+  },
+  {
+    "h": "挤",
+    "p": "jǐ",
+    "m": "chen, chen chúc; chật chội"
+  },
+  {
+    "h": "技能",
+    "p": "jì néng",
+    "m": "kỹ năng"
+  },
+  {
+    "h": "机器人",
+    "p": "jī qì rén",
+    "m": "người máy; robot"
+  },
+  {
+    "h": "机制",
+    "p": "jī zhì",
+    "m": "cơ chế"
+  },
+  {
+    "h": "价",
+    "p": "jià",
+    "m": "(n) giá (viết tắt của 价格)"
+  },
+  {
+    "h": "甲",
+    "p": "jiǎ",
+    "m": "điểm A; hạng A; hạng nhất; bậc nhất"
+  },
+  {
+    "h": "夹",
+    "p": "jiā",
+    "m": "(v) kẹp; gắp"
+  },
+  {
+    "h": "加热",
+    "p": "jiā rè",
+    "m": "làm nóng"
+  },
+  {
+    "h": "加速",
+    "p": "jiā sù",
+    "m": "tăng tốc"
+  },
+  {
+    "h": "加以",
+    "p": "jiā yǐ",
+    "m": "tiến hành; áp dụng (trang trọng)"
+  },
+  {
+    "h": "驾照",
+    "p": "jià zhào",
+    "m": "bằng lái xe, giấy phép lái xe"
+  },
+  {
+    "h": "加上",
+    "p": "jiā shàng",
+    "m": "thêm nữa, cộng thêm"
+  },
+  {
+    "h": "键",
+    "p": "jiàn",
+    "m": "phím (phím đàn), nút"
+  },
+  {
+    "h": "剪",
+    "p": "jiǎn",
+    "m": "cắt (bằng kéo)"
+  },
+  {
+    "h": "肩",
+    "p": "jiān",
+    "m": "vai; bả vai"
+  },
+  {
+    "h": "减轻",
+    "p": "jiǎn qīng",
+    "m": "giảm nhẹ"
+  },
+  {
+    "h": "建造",
+    "p": "jiàn zào",
+    "m": "kiến tạo; xây dựng"
+  },
+  {
+    "h": "剪子",
+    "p": "jiǎn zi",
+    "m": "cái kéo"
+  },
+  {
+    "h": "剪刀",
+    "p": "jiǎndāo",
+    "m": "cái kéo"
+  },
+  {
+    "h": "坚定",
+    "p": "jiāndìng",
+    "m": "kiên định"
+  },
+  {
+    "h": "间接",
+    "p": "jiànjiē",
+    "m": "gián tiếp"
+  },
+  {
+    "h": "艰苦",
+    "p": "jiānkǔ",
+    "m": "gian khổ"
+  },
+  {
+    "h": "艰难",
+    "p": "jiānnán",
+    "m": "gian nan"
+  },
+  {
+    "h": "键盘",
+    "p": "jiànpán",
+    "m": "bàn phím"
+  },
+  {
+    "h": "健全",
+    "p": "jiànquán",
+    "m": "kiện toàn, hoàn thiện"
+  },
+  {
+    "h": "检验",
+    "p": "jiǎnyàn",
+    "m": "kiểm nghiệm"
+  },
+  {
+    "h": "建筑",
+    "p": "jiànzhù",
+    "m": "kiến trúc"
+  },
+  {
+    "h": "将",
+    "p": "jiāng",
+    "m": "sẽ (trang trọng)"
+  },
+  {
+    "h": "将要",
+    "p": "jiāng yào",
+    "m": "sắp sửa, sắp"
+  },
+  {
+    "h": "奖励",
+    "p": "jiǎnglì",
+    "m": "thưởng; phần thưởng"
+  },
+  {
+    "h": "胶带",
+    "p": "jiāo dài",
+    "m": "băng keo; băng dính"
+  },
+  {
+    "h": "脚步",
+    "p": "jiǎo bù",
+    "m": "bước chân"
+  },
+  {
+    "h": "交代",
+    "p": "jiāodài",
+    "m": "dặn dò, giao phó"
+  },
+  {
+    "h": "郊区",
+    "p": "jiāoqū",
+    "m": "ngoại ô"
+  },
+  {
+    "h": "胶水",
+    "p": "jiāoshuǐ",
+    "m": "keo; keo nước"
+  },
+  {
+    "h": "驾驶",
+    "p": "jiàshǐ",
+    "m": "lái xe"
+  },
+  {
+    "h": "继承",
+    "p": "jìchéng",
+    "m": "(v) kế thừa, thừa kế"
+  },
+  {
+    "h": "基地",
+    "p": "jīdì",
+    "m": "(n) căn cứ"
+  },
+  {
+    "h": "届",
+    "p": "jiè",
+    "m": "(lượng) khoá; lần; đợt (dùng với các cuộc họp, cuộc thi định kỳ)"
+  },
+  {
+    "h": "戒",
+    "p": "jiè",
+    "m": "cai (thuốc, rượu,...)"
+  },
+  {
+    "h": "解除",
+    "p": "jiěchú",
+    "m": "giải trừ, hủy bỏ"
+  },
+  {
+    "h": "接触",
+    "p": "jiēchù",
+    "m": "tiếp xúc"
+  },
+  {
+    "h": "解放",
+    "p": "jiěfàng",
+    "m": "giải phóng"
+  },
+  {
+    "h": "接连",
+    "p": "jiēlián",
+    "m": "(adv) liên tiếp, nối tiếp"
+  },
+  {
+    "h": "基金",
+    "p": "jījīn",
+    "m": "quỹ"
+  },
+  {
+    "h": "紧紧",
+    "p": "jǐn jǐn",
+    "m": "chặt chẽ; sát sao; khăng khít"
+  },
+  {
+    "h": "今日",
+    "p": "jīn rì",
+    "m": "hôm nay"
+  },
+  {
+    "h": "尽可能",
+    "p": "jǐn kě néng",
+    "m": "hết mức có thể, trong khả năng tối đa (tương đương: cố gắng hết sức)"
+  },
+  {
+    "h": "近来",
+    "p": "jìnlái",
+    "m": "gần đây"
+  },
+  {
+    "h": "景象",
+    "p": "jǐng xiàng",
+    "m": "cảnh tượng"
+  },
+  {
+    "h": "经费",
+    "p": "jīngfèi",
+    "m": "(n) kinh phí"
+  },
+  {
+    "h": "警告",
+    "p": "jǐnggào",
+    "m": "cảnh cáo"
+  },
+  {
+    "h": "竞赛",
+    "p": "jìngsài",
+    "m": "cuộc thi, thi đấu"
+  },
+  {
+    "h": "尽管",
+    "p": "jǐnguǎn",
+    "m": "(liên) dù, cho dù, mặc dù (trang trọng)"
+  },
+  {
+    "h": "竞争",
+    "p": "jìngzhēng",
+    "m": "cạnh tranh"
+  },
+  {
+    "h": "进化",
+    "p": "jìnhuà",
+    "m": "tiến hóa"
+  },
+  {
+    "h": "肌肉",
+    "p": "jīròu",
+    "m": "cơ bắp"
+  },
+  {
+    "h": "即使",
+    "p": "jíshǐ",
+    "m": "cho dù"
+  },
+  {
+    "h": "集团",
+    "p": "jítuán",
+    "m": "tập đoàn"
+  },
+  {
+    "h": "酒鬼",
+    "p": "jiǔ guǐ",
+    "m": "kẻ nát rượu; bợm nhậu; sâu rượu"
+  },
+  {
+    "h": "救灾",
+    "p": "jiù zāi",
+    "m": "cứu trợ thiên tai"
+  },
+  {
+    "h": "记忆",
+    "p": "jìyì",
+    "m": "(n) ký ức(v) ghi nhớ"
+  },
+  {
+    "h": "局长",
+    "p": "jú zhǎng",
+    "m": "cục trưởng"
+  },
+  {
+    "h": "剧本",
+    "p": "jùběn",
+    "m": "kịch bản"
+  },
+  {
+    "h": "举动",
+    "p": "jǔdòng",
+    "m": "(n) hành động, cử chỉ"
+  },
+  {
+    "h": "决不",
+    "p": "jué bù",
+    "m": "quyết không, tuyệt đối không"
+  },
+  {
+    "h": "绝望",
+    "p": "juéwàng",
+    "m": "tuyệt vọng"
+  },
+  {
+    "h": "拒绝",
+    "p": "jùjué",
+    "m": "từ chối"
+  },
+  {
+    "h": "俱乐部",
+    "p": "jùlèbù",
+    "m": "câu lạc bộ"
+  },
+  {
+    "h": "局面",
+    "p": "júmiàn",
+    "m": "cục diện"
+  },
+  {
+    "h": "军人",
+    "p": "jūn rén",
+    "m": "quân nhân"
+  },
+  {
+    "h": "居然",
+    "p": "jūrán",
+    "m": "vậy mà lại; thế mà lại; không ngờ lại"
+  },
+  {
+    "h": "开幕",
+    "p": "kāi mù",
+    "m": "khai mạc"
+  },
+  {
+    "h": "开幕式",
+    "p": "kāimùshì",
+    "m": "lễ khai mạc"
+  },
+  {
+    "h": "看成",
+    "p": "kàn chéng",
+    "m": "coi là, xem như, nhìn thành (xem A là B)"
+  },
+  {
+    "h": "看出",
+    "p": "kàn chū",
+    "m": "nhìn ra"
+  },
+  {
+    "h": "看待",
+    "p": "kàndài",
+    "m": "xem xét, đánh giá"
+  },
+  {
+    "h": "靠近",
+    "p": "kào jìn",
+    "m": "1. kế; kề; dựa sát; 2. cập bến; đến gần"
+  },
+  {
+    "h": "烤肉",
+    "p": "kǎo ròu",
+    "m": "thịt quay; thịt nướng"
+  },
+  {
+    "h": "考核",
+    "p": "kǎohé",
+    "m": "đánh giá (dùng để chỉ quá trình kiểm tra năng lực, thành tích hoặc thái độ làm việc của một cá nhân dựa trên những tiêu chuẩn nhất định)"
+  },
+  {
+    "h": "烤鸭",
+    "p": "kǎoyā",
+    "m": "vịt quay"
+  },
+  {
+    "h": "刻",
+    "p": "kè",
+    "m": "khắc, 15 phút"
+  },
+  {
+    "h": "咳",
+    "p": "ké",
+    "m": "ho"
+  },
+  {
+    "h": "可",
+    "p": "kě",
+    "m": "đáng; thật là; rất (nhấn mạnh, thường mang cảm xúc)"
+  },
+  {
+    "h": "颗",
+    "p": "kē",
+    "m": "(lượng) hạt; viên"
+  },
+  {
+    "h": "客气",
+    "p": "kè qì",
+    "m": "khách khí, khách sáo"
+  },
+  {
+    "h": "客户",
+    "p": "kèhù",
+    "m": "khách hàng"
+  },
+  {
+    "h": "可怜",
+    "p": "kělián",
+    "m": "đáng thương"
+  },
+  {
+    "h": "肯定",
+    "p": "kěndìng",
+    "m": "(phó) chắc chắn, khẳng định"
+  },
+  {
+    "h": "课题",
+    "p": "kètí",
+    "m": "đề tài (nghiên cứu)"
+  },
+  {
+    "h": "客厅",
+    "p": "kètīng",
+    "m": "phòng khách"
+  },
+  {
+    "h": "渴望",
+    "p": "kěwàng",
+    "m": "khát vọng, khao khát"
+  },
+  {
+    "h": "可惜",
+    "p": "kěxī",
+    "m": "đáng tiếc"
+  },
+  {
+    "h": "空中",
+    "p": "kōng zhōng",
+    "m": "không trung, trên không"
+  },
+  {
+    "h": "控制",
+    "p": "kòngzhì",
+    "m": "khống chế; kiểm soát"
+  },
+  {
+    "h": "口号",
+    "p": "kǒu hào",
+    "m": "khẩu hiệu"
+  },
+  {
+    "h": "库",
+    "p": "kù",
+    "m": "kho"
+  },
+  {
+    "h": "快活",
+    "p": "kuàihuo",
+    "m": "vui vẻ, hạnh phúc"
+  },
+  {
+    "h": "宽度",
+    "p": "kuān dù",
+    "m": "độ rộng; chiều rộng"
+  },
+  {
+    "h": "狂",
+    "p": "kuáng",
+    "m": "điên cuồng, mạnh liệt; dữ dội"
+  },
+  {
+    "h": "亏",
+    "p": "kuī",
+    "m": "thiệt thòi, thua lỗ"
+  },
+  {
+    "h": "困扰",
+    "p": "kùn rǎo",
+    "m": "làm phiền, gây rối"
+  },
+  {
+    "h": "落",
+    "p": "là",
+    "m": "(v) để quên, bỏ sót"
+  },
+  {
+    "h": "来信",
+    "p": "lái xìn",
+    "m": "thư gửi đến"
+  },
+  {
+    "h": "烂",
+    "p": "làn",
+    "m": "nát, nhừ, nhão"
+  },
+  {
+    "h": "朗读",
+    "p": "lǎngdú",
+    "m": "đọc to, đọc diễn cảm"
+  },
+  {
+    "h": "浪漫",
+    "p": "làngmàn",
+    "m": "lãng mạn"
+  },
+  {
+    "h": "劳动",
+    "p": "láodòng",
+    "m": "lao động"
+  },
+  {
+    "h": "立",
+    "p": "lì",
+    "m": "(v) đứng; dựng, lập"
+  },
+  {
+    "h": "梨",
+    "p": "lí",
+    "m": "quả lê"
+  },
+  {
+    "h": "礼",
+    "p": "lǐ",
+    "m": "lễ nghi; lễ phép, lễ vật"
+  },
+  {
+    "h": "礼拜",
+    "p": "lǐ bài",
+    "m": "tuần, thứ"
+  },
+  {
+    "h": "连接",
+    "p": "lián jiē",
+    "m": "(v) kết nối, liên kết"
+  },
+  {
+    "h": "脸盆",
+    "p": "liǎn pén",
+    "m": "chậu rửa mặt"
+  },
+  {
+    "h": "脸色",
+    "p": "liǎn sè",
+    "m": "sắc mặt"
+  },
+  {
+    "h": "恋爱",
+    "p": "liàn’ài",
+    "m": "yêu đương"
+  },
+  {
+    "h": "联络",
+    "p": "liánluò",
+    "m": "liên lạc"
+  },
+  {
+    "h": "联想",
+    "p": "liánxiǎng",
+    "m": "liên tưởng"
+  },
+  {
+    "h": "两岸",
+    "p": "liǎng àn",
+    "m": "hai bên, hai bờ"
+  },
+  {
+    "h": "立场",
+    "p": "lìchǎng",
+    "m": "lập trường"
+  },
+  {
+    "h": "厉害",
+    "p": "lìhai",
+    "m": "lợi hạighê ghớm, dữ dội, kinh khủng"
+  },
+  {
+    "h": "礼貌",
+    "p": "lǐmào",
+    "m": "lễ phép, lịch sự"
+  },
+  {
+    "h": "邻居",
+    "p": "línjū",
+    "m": "hàng xóm"
+  },
+  {
+    "h": "令",
+    "p": "lìng",
+    "m": "khiến, lệnh"
+  },
+  {
+    "h": "铃",
+    "p": "líng",
+    "m": "chuông"
+  },
+  {
+    "h": "领带",
+    "p": "lǐng dài",
+    "m": "cà vạt"
+  },
+  {
+    "h": "铃声",
+    "p": "líng shēng",
+    "m": "tiếng chuông"
+  },
+  {
+    "h": "利润",
+    "p": "lìrùn",
+    "m": "lợi nhuận"
+  },
+  {
+    "h": "流动",
+    "p": "liú dòng",
+    "m": "lưu động; dịch chuyển; chảy"
+  },
+  {
+    "h": "流通",
+    "p": "liútōng",
+    "m": "lưu thông"
+  },
+  {
+    "h": "例外",
+    "p": "lìwài",
+    "m": "ngoại lệ"
+  },
+  {
+    "h": "漏",
+    "p": "lòu",
+    "m": "dột, thủng, rò rỉ"
+  },
+  {
+    "h": "漏洞",
+    "p": "lòu dòng",
+    "m": "lỗ thủng; lỗ hở; vết nứt"
+  },
+  {
+    "h": "逻辑",
+    "p": "luóji",
+    "m": "logic"
+  },
+  {
+    "h": "落实",
+    "p": "luòshí",
+    "m": "thực hiện, triển khai và làm cho trở thành hiện thực (chính sách, biện pháp, kế hoạch, quyết định…)."
+  },
+  {
+    "h": "骂",
+    "p": "mà",
+    "m": "chửi; mắng"
+  },
+  {
+    "h": "买卖",
+    "p": "mǎi mài",
+    "m": "buôn bán"
+  },
+  {
+    "h": "漫长",
+    "p": "màncháng",
+    "m": "dài đằng đẵng"
+  },
+  {
+    "h": "漫画",
+    "p": "mànhuà",
+    "m": "truyện tranh"
+  },
+  {
+    "h": "冒",
+    "p": "mào",
+    "m": "bốc lên, toát ra, phả ra; bất chấp; liều"
+  },
+  {
+    "h": "毛笔",
+    "p": "máo bǐ",
+    "m": "bút lông"
+  },
+  {
+    "h": "矛盾",
+    "p": "máodùn",
+    "m": "mâu thuẫn"
+  },
+  {
+    "h": "贸易",
+    "p": "màoyì",
+    "m": "thương mại"
+  },
+  {
+    "h": "码头",
+    "p": "mǎtóu",
+    "m": "bến tàu; bến cảng"
+  },
+  {
+    "h": "煤",
+    "p": "méi",
+    "m": "than đá"
+  },
+  {
+    "h": "煤气",
+    "p": "méi qì",
+    "m": "gas; khí gas"
+  },
+  {
+    "h": "门诊",
+    "p": "mén zhěn",
+    "m": "khám ngoại trú, phòng khám (ngoại trú) trong bệnh viện"
+  },
+  {
+    "h": "面貌",
+    "p": "miànmào",
+    "m": "diện mạo"
+  },
+  {
+    "h": "面子",
+    "p": "miànzi",
+    "m": "thể diện, sĩ diện"
+  },
+  {
+    "h": "秒",
+    "p": "miǎo",
+    "m": "giây"
+  },
+  {
+    "h": "明亮",
+    "p": "míng liàng",
+    "m": "sáng ngời, sáng sủa; sáng rực"
+  },
+  {
+    "h": "敏感",
+    "p": "mǐngǎn",
+    "m": "mẫn cảm, nhạy cảm"
+  },
+  {
+    "h": "命令",
+    "p": "mìnglìng",
+    "m": "mệnh lệnh"
+  },
+  {
+    "h": "明明",
+    "p": "míngmíng",
+    "m": "(phó từ) rõ ràng là"
+  },
+  {
+    "h": "迷人",
+    "p": "mírén",
+    "m": "quyến rũ, mê hoặc"
+  },
+  {
+    "h": "迷信",
+    "p": "míxìn",
+    "m": "mê tín"
+  },
+  {
+    "h": "摩托",
+    "p": "mó tuō",
+    "m": "(n) xe máy (viết tắt của 摩托车)"
+  },
+  {
+    "h": "摩擦",
+    "p": "mócā",
+    "m": "ma sát, cọ sát; xích mích"
+  },
+  {
+    "h": "模范",
+    "p": "mófàn",
+    "m": "gương mẫu"
+  },
+  {
+    "h": "模仿",
+    "p": "mófǎng",
+    "m": "mô phỏng, bắt chước"
+  },
+  {
+    "h": "模糊",
+    "p": "móhu",
+    "m": "mơ hồ"
+  },
+  {
+    "h": "模式",
+    "p": "móshì",
+    "m": "mô thức; mô hình, kiểu mẫu"
+  },
+  {
+    "h": "目光",
+    "p": "mùguāng",
+    "m": "ánh mắt"
+  },
+  {
+    "h": "模样",
+    "p": "múyàng",
+    "m": "dáng vẻ; bộ dạng; hình dáng bên ngoài"
+  },
+  {
+    "h": "耐心",
+    "p": "nàixīn",
+    "m": "nhẫn nại, kiên nhẫn"
+  },
+  {
+    "h": "男性",
+    "p": "nán xìng",
+    "m": "nam tính, nam giới; đàn ông"
+  },
+  {
+    "h": "南北",
+    "p": "nán běi",
+    "m": "Nam Bắc"
+  },
+  {
+    "h": "南极",
+    "p": "nán jí",
+    "m": "Nam cực"
+  },
+  {
+    "h": "难以",
+    "p": "nán yǐ",
+    "m": "(phó từ) khó mà"
+  },
+  {
+    "h": "难得",
+    "p": "nándé",
+    "m": "(adj) hiếm có, hiếm khi"
+  },
+  {
+    "h": "脑子",
+    "p": "nǎo zi",
+    "m": "đầu óc"
+  },
+  {
+    "h": "内在",
+    "p": "nèizài",
+    "m": "nội tại, bên trong"
+  },
+  {
+    "h": "能量",
+    "p": "néngliàng",
+    "m": "(n) năng lượng"
+  },
+  {
+    "h": "年前",
+    "p": "nián qián",
+    "m": "trước Tết; trước đây (bao nhiêu năm)"
+  },
+  {
+    "h": "年度",
+    "p": "niándù",
+    "m": "(n) hàng năm, năm (thống kê)"
+  },
+  {
+    "h": "年龄",
+    "p": "niánlíng",
+    "m": "(n) tuổi; tuổi tác"
+  },
+  {
+    "h": "牛",
+    "p": "niú",
+    "m": "(adj) trâu bò; ngầu; giỏi"
+  },
+  {
+    "h": "牛仔裤",
+    "p": "niúzǎikù",
+    "m": "quần bò"
+  },
+  {
+    "h": "农产品",
+    "p": "nóng chǎn pǐn",
+    "m": "nông sản"
+  },
+  {
+    "h": "女性",
+    "p": "nǚ xìng",
+    "m": "nữ tính, phụ nữ"
+  },
+  {
+    "h": "暖",
+    "p": "nuǎn",
+    "m": "ấm, ấm áp"
+  },
+  {
+    "h": "偶尔",
+    "p": "ǒu’ěr",
+    "m": "thi thoảng"
+  },
+  {
+    "h": "偶然",
+    "p": "ǒurán",
+    "m": "ngẫu nhiên; tình cờ"
+  },
+  {
+    "h": "偶像",
+    "p": "ǒuxiàng",
+    "m": "thần tượng"
+  },
+  {
+    "h": "拍摄",
+    "p": "pāi shè",
+    "m": "quay phim, chụp ảnh"
+  },
+  {
+    "h": "排除",
+    "p": "páichú",
+    "m": "loại trừ, loại bỏ"
+  },
+  {
+    "h": "旁",
+    "p": "páng",
+    "m": "bên, cạnh"
+  },
+  {
+    "h": "赔",
+    "p": "péi",
+    "m": "(v) đền, bồi thường"
+  },
+  {
+    "h": "陪",
+    "p": "péi",
+    "m": "(v) đi cùng, kèm"
+  },
+  {
+    "h": "配备",
+    "p": "pèibèi",
+    "m": "trang bị"
+  },
+  {
+    "h": "赔偿",
+    "p": "péicháng",
+    "m": "bồi thường"
+  },
+  {
+    "h": "配套",
+    "p": "pèitào",
+    "m": "đồng bộ, phối hợp thành bộ, đi kèm"
+  },
+  {
+    "h": "盆",
+    "p": "pén",
+    "m": "(lượng từ) chậu (chậu nước,...)"
+  },
+  {
+    "h": "喷",
+    "p": "pēn",
+    "m": "(v) phun; xịt"
+  },
+  {
+    "h": "匹",
+    "p": "pǐ",
+    "m": "(lượng từ) con (ngựa)"
+  },
+  {
+    "h": "披",
+    "p": "pī",
+    "m": "khoác"
+  },
+  {
+    "h": "骗",
+    "p": "piàn",
+    "m": "lừa, lừa gạt"
+  },
+  {
+    "h": "骗子",
+    "p": "piàn zi",
+    "m": "kẻ lừa đảo"
+  },
+  {
+    "h": "皮肤",
+    "p": "pífū",
+    "m": "da"
+  },
+  {
+    "h": "品",
+    "p": "pǐn",
+    "m": "(v) nếm, thưởng thức"
+  },
+  {
+    "h": "品",
+    "p": "pǐn",
+    "m": "(n) đồ mỹ nghệ, sản phẩm thủ công"
+  },
+  {
+    "h": "拼",
+    "p": "pīn",
+    "m": "(v) ghép (v) liều"
+  },
+  {
+    "h": "频道",
+    "p": "píndào",
+    "m": "(n) kênh (tv, radio)"
+  },
+  {
+    "h": "频繁",
+    "p": "pínfán",
+    "m": "thường xuyên, nhiều lần"
+  },
+  {
+    "h": "品种",
+    "p": "pǐnzhǒng",
+    "m": "loại sản phẩm, chủng loại"
+  },
+  {
+    "h": "凭",
+    "p": "píng",
+    "m": "dựa vào"
+  },
+  {
+    "h": "评估",
+    "p": "pínggū",
+    "m": "đánh giá"
+  },
+  {
+    "h": "评论",
+    "p": "pínglùn",
+    "m": "bình luận"
+  },
+  {
+    "h": "平坦",
+    "p": "píngtǎn",
+    "m": "bằng phẳng"
+  },
+  {
+    "h": "平原",
+    "p": "píngyuán",
+    "m": "đồng bằng"
+  },
+  {
+    "h": "脾气",
+    "p": "píqi",
+    "m": "tính khí, tính tình"
+  },
+  {
+    "h": "皮鞋",
+    "p": "píxié",
+    "m": "giày da"
+  },
+  {
+    "h": "泼",
+    "p": "pō",
+    "m": "hắt, té, vẩy (nước)"
+  },
+  {
+    "h": "葡萄酒",
+    "p": "pú táo jiǔ",
+    "m": "rượu vang"
+  },
+  {
+    "h": "葡萄",
+    "p": "pútao",
+    "m": "nho"
+  },
+  {
+    "h": "其",
+    "p": "qí",
+    "m": "(đại từ) của nó, của họ; kỳ"
+  },
+  {
+    "h": "起到",
+    "p": "qǐ dào",
+    "m": "đóng vai trò"
+  },
+  {
+    "h": "启动",
+    "p": "qǐ dòng",
+    "m": "khởi động; bắt đầu"
+  },
+  {
+    "h": "气体",
+    "p": "qì tǐ",
+    "m": "thể khí; chất khí"
+  },
+  {
+    "h": "欠",
+    "p": "qiàn",
+    "m": "nợ, thiếu (tiền)"
+  },
+  {
+    "h": "签",
+    "p": "qiān",
+    "m": "(v) ký (tên)"
+  },
+  {
+    "h": "签订",
+    "p": "qiān dìng",
+    "m": "ký kết"
+  },
+  {
+    "h": "签名",
+    "p": "qiān míng",
+    "m": "kí tên, chữ ký"
+  },
+  {
+    "h": "签字",
+    "p": "qiān zì",
+    "m": "ký tên"
+  },
+  {
+    "h": "签约",
+    "p": "qiān yuē",
+    "m": "(v) ký hợp đồng"
+  },
+  {
+    "h": "前景",
+    "p": "qiánjǐng",
+    "m": "(n) triển vọng, tiền cảnh"
+  },
+  {
+    "h": "前提",
+    "p": "qiántí",
+    "m": "tiền đề"
+  },
+  {
+    "h": "签证",
+    "p": "qiānzhèng",
+    "m": "visa"
+  },
+  {
+    "h": "抢",
+    "p": "qiǎng",
+    "m": "cướp"
+  },
+  {
+    "h": "枪",
+    "p": "qiāng",
+    "m": "súng"
+  },
+  {
+    "h": "墙壁",
+    "p": "qiáng bì",
+    "m": "tường; bức tường"
+  },
+  {
+    "h": "强度",
+    "p": "qiáng dù",
+    "m": "cường độ"
+  },
+  {
+    "h": "抢救",
+    "p": "qiǎngjiù",
+    "m": "cấp cứu"
+  },
+  {
+    "h": "强迫",
+    "p": "qiǎngpò",
+    "m": "ép buộc, cưỡng ép"
+  },
+  {
+    "h": "瞧",
+    "p": "qiáo",
+    "m": "nhìn, xem, ngó, liếc (khẩu ngữ)"
+  },
+  {
+    "h": "敲",
+    "p": "qiāo",
+    "m": "gõ"
+  },
+  {
+    "h": "敲门",
+    "p": "qiāo mén",
+    "m": "gõ cửa"
+  },
+  {
+    "h": "悄悄",
+    "p": "qiāoqiāo",
+    "m": "lặng lẽ, lén lút"
+  },
+  {
+    "h": "启发",
+    "p": "qǐfā",
+    "m": "gợi mở, truyền cảm hứng, làm nảy ra ý tưởng"
+  },
+  {
+    "h": "起码",
+    "p": "qǐmǎ",
+    "m": "tối thiểu, ít nhất"
+  },
+  {
+    "h": "琴",
+    "p": "qín",
+    "m": "đàn"
+  },
+  {
+    "h": "勤奋",
+    "p": "qínfèn",
+    "m": "cần cù, chăm chỉ, siêng năng (nhấn mạnh vào sự siêng năng, kiên trì trong một khoảng thời gian dài)"
+  },
+  {
+    "h": "青",
+    "p": "qīng",
+    "m": "Thanh, xanh, màu xanh"
+  },
+  {
+    "h": "清晨",
+    "p": "qīngchén",
+    "m": "sáng sớm, bình minh"
+  },
+  {
+    "h": "情节",
+    "p": "qíngjié",
+    "m": "tình tiết, cốt truyện"
+  },
+  {
+    "h": "晴朗",
+    "p": "qínglǎng",
+    "m": "(adj) nắng đẹp, trời quang đãng"
+  },
+  {
+    "h": "清理",
+    "p": "qīnglǐ",
+    "m": "thanh lý, dọn dẹp"
+  },
+  {
+    "h": "情形",
+    "p": "qíngxíng",
+    "m": "tình hình"
+  },
+  {
+    "h": "齐全",
+    "p": "qíquán",
+    "m": "đầy đủ, trọn vẹn"
+  },
+  {
+    "h": "启事",
+    "p": "qǐshì",
+    "m": "thông báo, cáo thị (dán/đăng công khai)"
+  },
+  {
+    "h": "期望",
+    "p": "qīwàng",
+    "m": "kỳ vọng, mong đợi"
+  },
+  {
+    "h": "气象",
+    "p": "qìxiàng",
+    "m": "(n) khí tượng, thời tiết"
+  },
+  {
+    "h": "群体",
+    "p": "qún tǐ",
+    "m": "quần thể, tập thể"
+  },
+  {
+    "h": "群众",
+    "p": "qúnzhòng",
+    "m": "quần chúng, nhân dân"
+  },
+  {
+    "h": "区域",
+    "p": "qūyù",
+    "m": "khu vực"
+  },
+  {
+    "h": "劝",
+    "p": "quàn",
+    "m": "khuyên; khuyên nhủ"
+  },
+  {
+    "h": "泉",
+    "p": "quán",
+    "m": "suối"
+  },
+  {
+    "h": "全世界",
+    "p": "quán shì jiè",
+    "m": "toàn thế giới"
+  },
+  {
+    "h": "全都",
+    "p": "quán dōu",
+    "m": "toàn bộ đều"
+  },
+  {
+    "h": "缺乏",
+    "p": "quēfá",
+    "m": "thiếu, thiếu hụt"
+  },
+  {
+    "h": "确立",
+    "p": "quèlì",
+    "m": "xác lập"
+  },
+  {
+    "h": "染",
+    "p": "rǎn",
+    "m": "nhuộm, nhiễm"
+  },
+  {
+    "h": "绕",
+    "p": "rào",
+    "m": "(v) vòng quanh, đi vòng"
+  },
+  {
+    "h": "热量",
+    "p": "rè liàng",
+    "m": "nhiệt lượng; hàm lượng Calo"
+  },
+  {
+    "h": "热门",
+    "p": "rèmén",
+    "m": "hot; phổ biến"
+  },
+  {
+    "h": "认",
+    "p": "rèn",
+    "m": "(v) nhận, thừa nhận"
+  },
+  {
+    "h": "忍",
+    "p": "rěn",
+    "m": "nhịn, chịu đựng, kìm nén (cảm xúc, đau đớn, khó chịu…)"
+  },
+  {
+    "h": "人力",
+    "p": "rén lì",
+    "m": "nhân lực"
+  },
+  {
+    "h": "忍不住",
+    "p": "rěnbuzhù",
+    "m": "không nhịn được; không thể kiềm chế"
+  },
+  {
+    "h": "认定",
+    "p": "rèndìng",
+    "m": "nhận định, xác định"
+  },
+  {
+    "h": "人间",
+    "p": "rénjiān",
+    "m": "nhân gian, trần gian"
+  },
+  {
+    "h": "人士",
+    "p": "rénshì",
+    "m": "nhân sĩ, người thuộc một giới/nhóm nhất định (cách nói trang trọng, thường dùng trong báo chí, văn bản)"
+  },
+  {
+    "h": "忍受",
+    "p": "rěnshòu",
+    "m": "chịu đựng, cam chịu"
+  },
+  {
+    "h": "人物",
+    "p": "rénwù",
+    "m": "nhân vật"
+  },
+  {
+    "h": "扔",
+    "p": "rēng",
+    "m": "vứt, ném"
+  },
+  {
+    "h": "仍旧",
+    "p": "réngjiù",
+    "m": "vẫn (trang trọng)"
+  },
+  {
+    "h": "如此",
+    "p": "rú cǐ",
+    "m": "(phó từ) như vậy; đến thế"
+  },
+  {
+    "h": "入门",
+    "p": "rù mén",
+    "m": "nhập môn; bắt đầu học"
+  },
+  {
+    "h": "如下",
+    "p": "rú xià",
+    "m": "như sau; dưới đây; sau đây"
+  },
+  {
+    "h": "如同",
+    "p": "rú tóng",
+    "m": "như, giống như, tựa như (trang trọng)"
+  },
+  {
+    "h": "软",
+    "p": "ruǎn",
+    "m": "(adj) mềm"
+  },
+  {
+    "h": "软件",
+    "p": "ruǎnjiàn",
+    "m": "(n) phần mềm"
+  },
+  {
+    "h": "洒",
+    "p": "sǎ",
+    "m": "rơi, vãi, rắc"
+  },
+  {
+    "h": "散",
+    "p": "sǎn",
+    "m": "lẻ tẻ; rời rạc"
+  },
+  {
+    "h": "散文",
+    "p": "sǎnwén",
+    "m": "tản văn"
+  },
+  {
+    "h": "傻",
+    "p": "shǎ",
+    "m": "(adj) ngốc, ngốc nghếch, ngớ ngẩn"
+  },
+  {
+    "h": "杀",
+    "p": "shā",
+    "m": "giết"
+  },
+  {
+    "h": "杀毒",
+    "p": "shā dú",
+    "m": "(v) diệt khuẩn; sát khuẩn; sát trùng(v) diệt virus (máy tính, điện thoại…)"
+  },
+  {
+    "h": "沙漠",
+    "p": "shāmò",
+    "m": "sa mạc"
+  },
+  {
+    "h": "扇",
+    "p": "shàn",
+    "m": "(kượng từ) cánh (cánh cửa; cánh quạt,...)"
+  },
+  {
+    "h": "扇",
+    "p": "shān",
+    "m": "(v) quạt"
+  },
+  {
+    "h": "山区",
+    "p": "shān qū",
+    "m": "vùng núi"
+  },
+  {
+    "h": "扇子",
+    "p": "shànzi",
+    "m": "cái quạt (quạt giấy/quạt tay)"
+  },
+  {
+    "h": "上涨",
+    "p": "shàng zhǎng",
+    "m": "dâng lên; tăng lên (mực nước, giá cả sản phẩm)"
+  },
+  {
+    "h": "上下",
+    "p": "shàng xià",
+    "m": "trên dưới; khoảng"
+  },
+  {
+    "h": "商标",
+    "p": "shāngbiāo",
+    "m": "thương hiệu"
+  },
+  {
+    "h": "上级",
+    "p": "shàngjí",
+    "m": "cấp trên"
+  },
+  {
+    "h": "稍",
+    "p": "shāo",
+    "m": "(adv) hơi, một chút"
+  },
+  {
+    "h": "稍微",
+    "p": "shāowēi",
+    "m": "một chút"
+  },
+  {
+    "h": "射",
+    "p": "shè",
+    "m": "(v) bắn, sút, phóng"
+  },
+  {
+    "h": "社",
+    "p": "shè",
+    "m": "(n) xã, hội (phần của từ ghép)"
+  },
+  {
+    "h": "蛇",
+    "p": "shé",
+    "m": "con rắn"
+  },
+  {
+    "h": "摄像",
+    "p": "shè xiàng",
+    "m": "quay video"
+  },
+  {
+    "h": "摄像机",
+    "p": "shè xiàng jī",
+    "m": "máy quay phim, máy quay video"
+  },
+  {
+    "h": "摄影师",
+    "p": "shè yǐng shī",
+    "m": "nhiếp ảnh gia"
+  },
+  {
+    "h": "舍得",
+    "p": "shě de",
+    "m": "(v) nỡ, chịu"
+  },
+  {
+    "h": "舍不得",
+    "p": "shěbude",
+    "m": "không nỡ, không đành"
+  },
+  {
+    "h": "射击",
+    "p": "shèjī",
+    "m": "bắn súng"
+  },
+  {
+    "h": "神",
+    "p": "shén",
+    "m": "thần; thần linh"
+  },
+  {
+    "h": "伸",
+    "p": "shēn",
+    "m": "(v) duỗi, vươn"
+  },
+  {
+    "h": "神情",
+    "p": "shén qíng",
+    "m": "thần thái, vẻ mặt"
+  },
+  {
+    "h": "深度",
+    "p": "shēn dù",
+    "m": "độ sâu, chiều sâu"
+  },
+  {
+    "h": "深处",
+    "p": "shēn chù",
+    "m": "nơi sâu thẳm; tận cùng"
+  },
+  {
+    "h": "神经",
+    "p": "shénjīng",
+    "m": "thần kinh"
+  },
+  {
+    "h": "神奇",
+    "p": "shénqí",
+    "m": "thần kỳ"
+  },
+  {
+    "h": "剩",
+    "p": "shèng",
+    "m": "(v) còn thừa, còn lại"
+  },
+  {
+    "h": "声",
+    "p": "shēng",
+    "m": "(n) tiếng, âm thanh(lượng từ) tiếng (dùng cho âm thanh)"
+  },
+  {
+    "h": "生成",
+    "p": "shēng chéng",
+    "m": "(v) sinh thành, tạo ra"
+  },
+  {
+    "h": "升高",
+    "p": "shēng gāo",
+    "m": "tăng lên cao"
+  },
+  {
+    "h": "剩下",
+    "p": "shèng xià",
+    "m": "(v) còn lại, thừa"
+  },
+  {
+    "h": "胜负",
+    "p": "shèngfù",
+    "m": "thắng thua"
+  },
+  {
+    "h": "社区",
+    "p": "shèqū",
+    "m": "khu dân cư, cộng đồng dân cư"
+  },
+  {
+    "h": "设想",
+    "p": "shèxiǎng",
+    "m": "tưởng tượng"
+  },
+  {
+    "h": "摄影",
+    "p": "shèyǐng",
+    "m": "nhiếp ảnh, chụp ảnh"
+  },
+  {
+    "h": "式",
+    "p": "shì",
+    "m": "(n) kiểu, dạng; công thức"
+  },
+  {
+    "h": "拾",
+    "p": "shí",
+    "m": "(v) nhặt, gom"
+  },
+  {
+    "h": "诗歌",
+    "p": "shī gē",
+    "m": "thơ; thơ ca"
+  },
+  {
+    "h": "使得",
+    "p": "shǐ de",
+    "m": "khiến cho, làm cho"
+  },
+  {
+    "h": "视为",
+    "p": "shì wéi",
+    "m": "xem là, coi là"
+  },
+  {
+    "h": "时常",
+    "p": "shícháng",
+    "m": "thường hay; thường xuyên"
+  },
+  {
+    "h": "示范",
+    "p": "shìfàn",
+    "m": "thị phạm; làm mẫu"
+  },
+  {
+    "h": "师傅",
+    "p": "shīfu",
+    "m": "bác tài"
+  },
+  {
+    "h": "时光",
+    "p": "shíguāng",
+    "m": "thời gian (trang trọng)"
+  },
+  {
+    "h": "实惠",
+    "p": "shíhuì",
+    "m": "thiết thực; đáng tiền; rất hời (không chỉ nói về giá rẻ, mà nhấn mạnh giá trị xứng đáng với những gì nhận được)"
+  },
+  {
+    "h": "时机",
+    "p": "shíjī",
+    "m": "(n) thời cơ, cơ hội"
+  },
+  {
+    "h": "势力",
+    "p": "shìlì",
+    "m": "thế lực"
+  },
+  {
+    "h": "视频",
+    "p": "shìpín",
+    "m": "video, clip"
+  },
+  {
+    "h": "时事",
+    "p": "shíshì",
+    "m": "thời sự"
+  },
+  {
+    "h": "试图",
+    "p": "shìtú",
+    "m": "cố gắng; tìm cách"
+  },
+  {
+    "h": "失误",
+    "p": "shīwù",
+    "m": "sai lầm, lỗi lầm"
+  },
+  {
+    "h": "十足",
+    "p": "shízú",
+    "m": "đầy đủ, hoàn toàn, rất rõ ràng (nhấn mạnh mức độ 100%, thường mang sắc thái nhấn mạnh)"
+  },
+  {
+    "h": "瘦",
+    "p": "shòu",
+    "m": "(adj) gầy (dùng cho người)"
+  },
+  {
+    "h": "手段",
+    "p": "shǒu duàn",
+    "m": "thủ đoạn"
+  },
+  {
+    "h": "收购",
+    "p": "shōu gòu",
+    "m": "thu mua; thâu tóm"
+  },
+  {
+    "h": "收集",
+    "p": "shōu jí",
+    "m": "thu thập, sưu tầm"
+  },
+  {
+    "h": "寿司",
+    "p": "shòu sī",
+    "m": "sushi (món ăn Nhật)"
+  },
+  {
+    "h": "受灾",
+    "p": "shòu zāi",
+    "m": "bị thiên tai"
+  },
+  {
+    "h": "手法",
+    "p": "shǒufǎ",
+    "m": "thủ pháp"
+  },
+  {
+    "h": "收拾",
+    "p": "shōushi",
+    "m": "thu dọn, dọn dẹp"
+  },
+  {
+    "h": "鼠",
+    "p": "shǔ",
+    "m": "con chuột"
+  },
+  {
+    "h": "输出",
+    "p": "shū chū",
+    "m": "xuất ra"
+  },
+  {
+    "h": "书桌",
+    "p": "shū zhuō",
+    "m": "bàn học"
+  },
+  {
+    "h": "书柜",
+    "p": "shū guì",
+    "m": "tủ sách"
+  },
+  {
+    "h": "数目",
+    "p": "shù mù",
+    "m": "số lượng"
+  },
+  {
+    "h": "摔",
+    "p": "shuāi",
+    "m": "té, ngã"
+  },
+  {
+    "h": "摔倒",
+    "p": "shuāidǎo",
+    "m": "ngã xuống; ngã nhào"
+  },
+  {
+    "h": "率领",
+    "p": "shuàilǐng",
+    "m": "(v) lãnh đạo, dẫn dắt"
+  },
+  {
+    "h": "双手",
+    "p": "shuāng shǒu",
+    "m": "hai tay"
+  },
+  {
+    "h": "鼠标",
+    "p": "shǔbiāo",
+    "m": "chuột máy tính"
+  },
+  {
+    "h": "蔬菜",
+    "p": "shūcài",
+    "m": "rau; rau xanh"
+  },
+  {
+    "h": "书法",
+    "p": "shūfǎ",
+    "m": "thư pháp"
+  },
+  {
+    "h": "水产品",
+    "p": "shuǐ chǎn pǐn",
+    "m": "thủy sản"
+  },
+  {
+    "h": "水库",
+    "p": "shuǐ kù",
+    "m": "đập chứa nước; hồ chứa nước"
+  },
+  {
+    "h": "睡眠",
+    "p": "shuì mián",
+    "m": "giấc ngủ"
+  },
+  {
+    "h": "水灾",
+    "p": "shuǐ zāi",
+    "m": "lũ lụt"
+  },
+  {
+    "h": "水分",
+    "p": "shuǐ fèn",
+    "m": "độ ẩm, lượng nước chứa bên trong"
+  },
+  {
+    "h": "说法",
+    "p": "shuō fǎ",
+    "m": "cách nói"
+  },
+  {
+    "h": "硕士",
+    "p": "shuòshì",
+    "m": "thạc sĩ"
+  },
+  {
+    "h": "熟悉",
+    "p": "shúxī",
+    "m": "(v) hiểu rõ; quen thuộc"
+  },
+  {
+    "h": "四周",
+    "p": "sì zhōu",
+    "m": "bốn xung quanh"
+  },
+  {
+    "h": "私人",
+    "p": "sīrén",
+    "m": "tư nhân, cá nhân"
+  },
+  {
+    "h": "思维",
+    "p": "sīwéi",
+    "m": "tư duy"
+  },
+  {
+    "h": "搜",
+    "p": "sōu",
+    "m": "tìm, tìm kiếm (khẩu ngữ)"
+  },
+  {
+    "h": "搜索",
+    "p": "sōusuǒ",
+    "m": "tìm kiếm (mang sắc thái kỹ thuật hoặc chuyên sâu hơn)"
+  },
+  {
+    "h": "酸甜苦辣",
+    "p": "suān tián kǔ là",
+    "m": "(thành ngữ) ngọt bùi đắng cay (cuộc đời)"
+  },
+  {
+    "h": "碎",
+    "p": "suì",
+    "m": "(adj) vỡ, vụn, nát (v) làm vỡ"
+  },
+  {
+    "h": "随后",
+    "p": "suí hòu",
+    "m": "ngay sau đó, sau đó không lâu"
+  },
+  {
+    "h": "随意",
+    "p": "suíyì",
+    "m": "tùy ý"
+  },
+  {
+    "h": "岁月",
+    "p": "suìyuè",
+    "m": "năm tháng; thời gian"
+  },
+  {
+    "h": "随着",
+    "p": "suízhe",
+    "m": "(giới từ) theo; cùng với"
+  },
+  {
+    "h": "损害",
+    "p": "sǔn hài",
+    "m": "tổn hại"
+  },
+  {
+    "h": "损失",
+    "p": "sǔnshī",
+    "m": "tổn thất"
+  },
+  {
+    "h": "锁",
+    "p": "suǒ",
+    "m": "(n) cái khóa (v) khóa"
+  },
+  {
+    "h": "所在",
+    "p": "suǒ zài",
+    "m": "nơi tồn tại, sở tại"
+  },
+  {
+    "h": "宿舍",
+    "p": "sùshè",
+    "m": "kí túc xá"
+  },
+  {
+    "h": "抬",
+    "p": "tái",
+    "m": "(v) khiêng, nhấc"
+  },
+  {
+    "h": "抬头",
+    "p": "tái tóu",
+    "m": "ngẩng đầu"
+  },
+  {
+    "h": "台风",
+    "p": "táifēng",
+    "m": "bão"
+  },
+  {
+    "h": "太空",
+    "p": "tàikōng",
+    "m": "không gian"
+  },
+  {
+    "h": "弹",
+    "p": "tán",
+    "m": "gảy; đánh (đàn)"
+  },
+  {
+    "h": "桃",
+    "p": "táo",
+    "m": "quả đào"
+  },
+  {
+    "h": "逃",
+    "p": "táo",
+    "m": "tháo chạy; trốn chạy"
+  },
+  {
+    "h": "桃花",
+    "p": "táo huā",
+    "m": "hoa đào"
+  },
+  {
+    "h": "桃树",
+    "p": "táo shù",
+    "m": "cây đào"
+  },
+  {
+    "h": "逃走",
+    "p": "táo zǒu",
+    "m": "trốn thoát"
+  },
+  {
+    "h": "逃跑",
+    "p": "táo pǎo",
+    "m": "chạy trốn; bỏ trốn"
+  },
+  {
+    "h": "讨厌",
+    "p": "tǎoyàn",
+    "m": "ghét"
+  },
+  {
+    "h": "特性",
+    "p": "tè xìng",
+    "m": "đặc tính"
+  },
+  {
+    "h": "特有",
+    "p": "tè yǒu",
+    "m": "đặc hữu"
+  },
+  {
+    "h": "特定",
+    "p": "tèdìng",
+    "m": "cụ thể, nhất định, được xác định rõ (không chung chung)"
+  },
+  {
+    "h": "体力",
+    "p": "tǐ lì",
+    "m": "thể lực"
+  },
+  {
+    "h": "提起",
+    "p": "tí qǐ",
+    "m": "đề cập; nói đến; nhắc đến"
+  },
+  {
+    "h": "天才",
+    "p": "tiāncái",
+    "m": "thiên tài"
+  },
+  {
+    "h": "天然气",
+    "p": "tiānránqì",
+    "m": "khí thiên nhiên"
+  },
+  {
+    "h": "天文",
+    "p": "tiānwén",
+    "m": "thiên văn"
+  },
+  {
+    "h": "调节",
+    "p": "tiáojié",
+    "m": "điều tiết, điều chỉnh"
+  },
+  {
+    "h": "调解",
+    "p": "tiáojiě",
+    "m": "hòa giải"
+  },
+  {
+    "h": "题材",
+    "p": "tícái",
+    "m": "đề tài"
+  },
+  {
+    "h": "提倡",
+    "p": "tíchàng",
+    "m": "(v) đề xướng"
+  },
+  {
+    "h": "体积",
+    "p": "tǐjī",
+    "m": "thể tích"
+  },
+  {
+    "h": "厅",
+    "p": "tīng",
+    "m": "sảnh, phòng"
+  },
+  {
+    "h": "停留",
+    "p": "tíng liú",
+    "m": "dừng lại"
+  },
+  {
+    "h": "提示",
+    "p": "tíshì",
+    "m": "gợi ý; nhắc nhở"
+  },
+  {
+    "h": "通用",
+    "p": "tōngyòng",
+    "m": "thông dụng"
+  },
+  {
+    "h": "偷",
+    "p": "tōu",
+    "m": "ăn trộm"
+  },
+  {
+    "h": "偷偷",
+    "p": "tōu tōu",
+    "m": "lén lút; âm thầm; vụng trộm"
+  },
+  {
+    "h": "兔",
+    "p": "tù",
+    "m": "(n) thỏ (viết tắt của 兔子)"
+  },
+  {
+    "h": "吐",
+    "p": "tù",
+    "m": "(v) nôn, mửa"
+  },
+  {
+    "h": "吐",
+    "p": "tǔ",
+    "m": "nhổ, phun ra; thốt ra (lời nói, bí mật...)"
+  },
+  {
+    "h": "团长",
+    "p": "tuán zhǎng",
+    "m": "trưởng đoàn"
+  },
+  {
+    "h": "土豆",
+    "p": "tǔdòu",
+    "m": "khoai tây"
+  },
+  {
+    "h": "推行",
+    "p": "tuī xíng",
+    "m": "triển khai, thúc đẩy, áp dụng rộng rãi (chính sách, biện pháp, kế hoạch…)"
+  },
+  {
+    "h": "脱离",
+    "p": "tuōlí",
+    "m": "thoát ly; rời khỏi, thoát khỏi (một trạng thái, hoàn cảnh, mối quan hệ, sự kiểm soát…)"
+  },
+  {
+    "h": "突破",
+    "p": "tūpò",
+    "m": "đột phá"
+  },
+  {
+    "h": "外界",
+    "p": "wàijiè",
+    "m": "bên ngoài; thế giới bên ngoài"
+  },
+  {
+    "h": "完了",
+    "p": "wán le",
+    "m": "thôi xong rồi; toang rồi (biểu thị sự lo lắng)"
+  },
+  {
+    "h": "胃",
+    "p": "wèi",
+    "m": "dạ dày"
+  },
+  {
+    "h": "微博",
+    "p": "wēi bó",
+    "m": "Weibo (mạng xã hội)"
+  },
+  {
+    "h": "违法",
+    "p": "wéi fǎ",
+    "m": "vi phạm pháp luật; phạm pháp"
+  },
+  {
+    "h": "违规",
+    "p": "wéi guī",
+    "m": "vi phạm quy định"
+  },
+  {
+    "h": "为止",
+    "p": "wéi zhǐ",
+    "m": "đến, cho đến"
+  },
+  {
+    "h": "为主",
+    "p": "wéi zhǔ",
+    "m": "(giới từ) lấy... làm chính / làm chủ"
+  },
+  {
+    "h": "违反",
+    "p": "wéifǎn",
+    "m": "vi phạm"
+  },
+  {
+    "h": "为难",
+    "p": "wéinán",
+    "m": "(adj) khó xử (v)  làm khó"
+  },
+  {
+    "h": "为期",
+    "p": "wéiqī",
+    "m": "kéo dài trong (khoảng thời gian)"
+  },
+  {
+    "h": "围绕",
+    "p": "wéirào",
+    "m": "xoay quanh, bao quanh, quay quanh"
+  },
+  {
+    "h": "委托",
+    "p": "wěituō",
+    "m": "ủy thác, giao phó"
+  },
+  {
+    "h": "慰问",
+    "p": "wèiwèn",
+    "m": "thăm hỏi"
+  },
+  {
+    "h": "卫星",
+    "p": "wèixīng",
+    "m": "vệ tinh"
+  },
+  {
+    "h": "唯一",
+    "p": "wéiyī",
+    "m": "duy nhất"
+  },
+  {
+    "h": "文艺",
+    "p": "wényì",
+    "m": "(n) văn nghệ"
+  },
+  {
+    "h": "温和",
+    "p": "wēnhé",
+    "m": "ôn hòa"
+  },
+  {
+    "h": "握",
+    "p": "wò",
+    "m": "nắm, bắt, cầm"
+  },
+  {
+    "h": "卧室",
+    "p": "wòshì",
+    "m": "phòng ngủ"
+  },
+  {
+    "h": "舞",
+    "p": "wǔ",
+    "m": "vũ, khiêu vũ; điệu múa, múa"
+  },
+  {
+    "h": "屋",
+    "p": "wū",
+    "m": "nhà, phòng; ốc"
+  },
+  {
+    "h": "污水",
+    "p": "wū shuǐ",
+    "m": "nước thải"
+  },
+  {
+    "h": "无疑",
+    "p": "wú yí",
+    "m": "không nghi ngờ gì; chắc chắn"
+  },
+  {
+    "h": "物价",
+    "p": "wù jià",
+    "m": "vật giá"
+  },
+  {
+    "h": "误解",
+    "p": "wùjiě",
+    "m": "hiểu lầm"
+  },
+  {
+    "h": "无奈",
+    "p": "wúnài",
+    "m": "bất lực; bó tay"
+  },
+  {
+    "h": "污染",
+    "p": "wūrǎn",
+    "m": "ô nhiễm"
+  },
+  {
+    "h": "物业",
+    "p": "wùyè",
+    "m": "(n) quản lý tài sản, ban quản lý tòa nhà"
+  },
+  {
+    "h": "物质",
+    "p": "wùzhì",
+    "m": "vật chất"
+  },
+  {
+    "h": "戏",
+    "p": "xì",
+    "m": "(n) kịch, vở kịch"
+  },
+  {
+    "h": "喜剧",
+    "p": "xǐ jù",
+    "m": "hài kịch; phim hài"
+  },
+  {
+    "h": "西装",
+    "p": "xī zhuāng",
+    "m": "âu phục; complet, vest"
+  },
+  {
+    "h": "吓",
+    "p": "xià",
+    "m": "doạ; doạ dẫm; hù (làm cho khiếp sợ)"
+  },
+  {
+    "h": "献",
+    "p": "xiàn",
+    "m": "(v) dâng, hiến"
+  },
+  {
+    "h": "闲",
+    "p": "xián",
+    "m": "nhàn, nhàn rỗi"
+  },
+  {
+    "h": "显",
+    "p": "xiǎn",
+    "m": "lộ rõ; rõ ràng"
+  },
+  {
+    "h": "先后",
+    "p": "xiān hòu",
+    "m": "trước sau, lần lượt, tuần tự"
+  },
+  {
+    "h": "现有",
+    "p": "xiàn yǒu",
+    "m": "hiện có"
+  },
+  {
+    "h": "先前",
+    "p": "xiānqián",
+    "m": "trước kia; trước đây"
+  },
+  {
+    "h": "线索",
+    "p": "xiànsuǒ",
+    "m": "manh mối"
+  },
+  {
+    "h": "鲜艳",
+    "p": "xiānyàn",
+    "m": "tươi tắn, tươi sáng, rực rỡ, bắt mắt"
+  },
+  {
+    "h": "现状",
+    "p": "xiànzhuàng",
+    "m": "hiện trạng, tình hình hiện tại"
+  },
+  {
+    "h": "乡",
+    "p": "xiāng",
+    "m": "(n) quê hương, nông thôn"
+  },
+  {
+    "h": "乡村",
+    "p": "xiāng cūn",
+    "m": "nông thôn, làng quê"
+  },
+  {
+    "h": "向前",
+    "p": "xiàng qián",
+    "m": "về phía trước; tiến lên phía trước (chỉ hướng hoặc hành động)"
+  },
+  {
+    "h": "向上",
+    "p": "xiàng shàng",
+    "m": "hướng lên trên (về phương hướng, vị trí)   tiến bộ, tích cực, có tinh thần vươn lên (nghĩa trừu tượng)"
+  },
+  {
+    "h": "香肠",
+    "p": "xiāngcháng",
+    "m": "xúc xích"
+  },
+  {
+    "h": "向导",
+    "p": "xiàngdǎo",
+    "m": "người dẫn đường"
+  },
+  {
+    "h": "相等",
+    "p": "xiāngděng",
+    "m": "bằng nhau; ngang nhau"
+  },
+  {
+    "h": "相声",
+    "p": "xiàngsheng",
+    "m": "tấu hài"
+  },
+  {
+    "h": "享受",
+    "p": "xiǎngshòu",
+    "m": "hưởng thụ; tận hưởng"
+  },
+  {
+    "h": "详细",
+    "p": "xiángxì",
+    "m": "chi tiết, tỉ mỉ, tường tận (miêu tả mức độ chi tiết của thông tin nào đó, thông tin đó được trình bày 1 cách chi tiết, đầy đủ)"
+  },
+  {
+    "h": "相应",
+    "p": "xiāngyìng",
+    "m": "tương ứng"
+  },
+  {
+    "h": "象征",
+    "p": "xiàngzhēng",
+    "m": "tượng trưng"
+  },
+  {
+    "h": "消费者",
+    "p": "xiāo fèi zhě",
+    "m": "người tiêu dùng"
+  },
+  {
+    "h": "小偷儿",
+    "p": "xiǎo tōur",
+    "m": "(n) tên trộm (khẩu ngữ)"
+  },
+  {
+    "h": "消除",
+    "p": "xiāochú",
+    "m": "loại bỏ; xóa bỏ"
+  },
+  {
+    "h": "消毒",
+    "p": "xiāodú",
+    "m": "khử trùng"
+  },
+  {
+    "h": "消防",
+    "p": "xiāofáng",
+    "m": "phòng cháy chữa cháy"
+  },
+  {
+    "h": "消极",
+    "p": "xiāojí",
+    "m": "tiêu cực"
+  },
+  {
+    "h": "斜",
+    "p": "xié",
+    "m": "nghiêng; chéo; xéo; lệch"
+  },
+  {
+    "h": "歇",
+    "p": "xiē",
+    "m": "nghỉ; nghỉ ngơi (nghỉ tạm thời, trong thời gian ngắn)"
+  },
+  {
+    "h": "协议书",
+    "p": "xié yì shū",
+    "m": "văn bản thỏa thuận"
+  },
+  {
+    "h": "协议",
+    "p": "xiéyì",
+    "m": "thỏa thuận"
+  },
+  {
+    "h": "西红柿",
+    "p": "xīhóngshì",
+    "m": "cà chua"
+  },
+  {
+    "h": "戏剧",
+    "p": "xìjù",
+    "m": "hí kịch"
+  },
+  {
+    "h": "信箱",
+    "p": "xìn xiāng",
+    "m": "hộp thư, hòm thư"
+  },
+  {
+    "h": "辛苦",
+    "p": "xīnkǔ",
+    "m": "vất vả"
+  },
+  {
+    "h": "信念",
+    "p": "xìnniàn",
+    "m": "niềm tin"
+  },
+  {
+    "h": "欣赏",
+    "p": "xīnshǎng",
+    "m": "ngắm nhìn (hưởng thức, cảm nhận cái đẹp về cảnh vật, nghệ thuật, âm nhạc…)  đánh giá cao, tán thưởng, ngưỡng mộ (về con người, phẩm chất, hành động…)"
+  },
+  {
+    "h": "心态",
+    "p": "xīntài",
+    "m": "(n) tâm thái; tâm thế"
+  },
+  {
+    "h": "心疼",
+    "p": "xīnténg",
+    "m": "thương xót; xót xa; đau lòng"
+  },
+  {
+    "h": "行驶",
+    "p": "xíng shǐ",
+    "m": "chạy (xe, thuyền..)"
+  },
+  {
+    "h": "性能",
+    "p": "xìngnéng",
+    "m": "tính năng"
+  },
+  {
+    "h": "形态",
+    "p": "xíngtài",
+    "m": "hình thái"
+  },
+  {
+    "h": "熊",
+    "p": "xióng",
+    "m": "con gấu"
+  },
+  {
+    "h": "雄伟",
+    "p": "xióngwěi",
+    "m": "hùng vĩ"
+  },
+  {
+    "h": "修复",
+    "p": "xiūfù",
+    "m": "tu sửa, phục hồi"
+  },
+  {
+    "h": "修建",
+    "p": "xiūjiàn",
+    "m": "xây dựng"
+  },
+  {
+    "h": "休闲",
+    "p": "xiūxián",
+    "m": "thư giãn; vui chơi giải trí"
+  },
+  {
+    "h": "修养",
+    "p": "xiūyǎng",
+    "m": "tu dưỡng"
+  },
+  {
+    "h": "选修",
+    "p": "xuǎn xiū",
+    "m": "môn tự chọn"
+  },
+  {
+    "h": "学科",
+    "p": "xué kē",
+    "m": "ngành học"
+  },
+  {
+    "h": "学者",
+    "p": "xué zhě",
+    "m": "học giả"
+  },
+  {
+    "h": "学位",
+    "p": "xuéwèi",
+    "m": "học vị"
+  },
+  {
+    "h": "许可",
+    "p": "xǔkě",
+    "m": "cho phép; cấp phép"
+  },
+  {
+    "h": "寻求",
+    "p": "xún qiú",
+    "m": "tìm kiếm"
+  },
+  {
+    "h": "询问",
+    "p": "xúnwèn",
+    "m": "(v) hỏi (trang trọng)"
+  },
+  {
+    "h": "虚心",
+    "p": "xūxīn",
+    "m": "khiêm tốn"
+  },
+  {
+    "h": "鸭子",
+    "p": "yā zi",
+    "m": "con vịt"
+  },
+  {
+    "h": "押金",
+    "p": "yājīn",
+    "m": "tiền đặt cọc"
+  },
+  {
+    "h": "亚军",
+    "p": "yàjūn",
+    "m": "á quân"
+  },
+  {
+    "h": "研究所",
+    "p": "yán jiū suǒ",
+    "m": "viện nghiên cứu"
+  },
+  {
+    "h": "言语",
+    "p": "yán yǔ",
+    "m": "ngôn ngữ, lời nói"
+  },
+  {
+    "h": "严厉",
+    "p": "yánlì",
+    "m": "nghiêm khắc; nghiêm ngặt"
+  },
+  {
+    "h": "延伸",
+    "p": "yánshēn",
+    "m": "kéo dài; mở rộng"
+  },
+  {
+    "h": "严肃",
+    "p": "yánsù",
+    "m": "nghiêm túc"
+  },
+  {
+    "h": "眼光",
+    "p": "yǎnguāng",
+    "m": "ánh mắt"
+  },
+  {
+    "h": "咬",
+    "p": "yǎo",
+    "m": "(v) cắn"
+  },
+  {
+    "h": "摇头",
+    "p": "yáo tóu",
+    "m": "lắc đầu"
+  },
+  {
+    "h": "邀请",
+    "p": "yāoqǐng",
+    "m": "mời"
+  },
+  {
+    "h": "也好",
+    "p": "yě hǎo",
+    "m": "cũng được; hoặc này hoặc kia cũng được"
+  },
+  {
+    "h": "夜间",
+    "p": "yè jiān",
+    "m": "ban đêm"
+  },
+  {
+    "h": "业务",
+    "p": "yèwù",
+    "m": "nghiệp vụ"
+  },
+  {
+    "h": "乙",
+    "p": "yǐ",
+    "m": "Ất (ngôi thứ hai trong Thiên Can); thứ hai; số hai; loại B"
+  },
+  {
+    "h": "一带",
+    "p": "yí dài",
+    "m": "vùng; khu vực"
+  },
+  {
+    "h": "依法",
+    "p": "yī fǎ",
+    "m": "theo pháp luật"
+  },
+  {
+    "h": "一口气",
+    "p": "yì kǒu qì",
+    "m": "một hơi; một lèo; một mạch"
+  },
+  {
+    "h": "一路",
+    "p": "yí lù",
+    "m": "cả quãng đường, suốt đường đi"
+  },
+  {
+    "h": "一身",
+    "p": "yì shēn",
+    "m": "toàn thân; cả người; khắp người"
+  },
+  {
+    "h": "一下子",
+    "p": "yí xià zi",
+    "m": "thoáng cái, trong chốc lát, đột nhiên (nhấn mạnh hành động hoặc trạng thái xảy ra rất nhanh, rất bất ngờ)"
+  },
+  {
+    "h": "一下儿",
+    "p": "yí xiàr",
+    "m": "(adv) một chút, một lát"
+  },
+  {
+    "h": "依照",
+    "p": "yī zhào",
+    "m": "theo, căn cứ vào, chiếu theo"
+  },
+  {
+    "h": "一句话",
+    "p": "yí jù huà",
+    "m": "một câu nói"
+  },
+  {
+    "h": "一辈子",
+    "p": "yíbèizi",
+    "m": "suốt đời; cả đời"
+  },
+  {
+    "h": "以便",
+    "p": "yǐbiàn",
+    "m": "để, nhằm để (dùng nêu mục đích, tương đương “để mà / để có thể”)"
+  },
+  {
+    "h": "一旦",
+    "p": "yídàn",
+    "m": "một khi"
+  },
+  {
+    "h": "依旧",
+    "p": "yījiù",
+    "m": "vẫn như cũ; vẫn như xưa; y nguyên"
+  },
+  {
+    "h": "依据",
+    "p": "yījù",
+    "m": "căn cứ"
+  },
+  {
+    "h": "一流",
+    "p": "yīliú",
+    "m": "hàng đầu"
+  },
+  {
+    "h": "因而",
+    "p": "yīn’ér",
+    "m": "(liên) do đó; vì vậy; cho nên (dùng để nối trực tiếp giữa hai mệnh đề, mang tính trang trọng, văn vẻ)"
+  },
+  {
+    "h": "饮料",
+    "p": "yǐnliào",
+    "m": "đồ uống"
+  },
+  {
+    "h": "饮食",
+    "p": "yǐnshí",
+    "m": "(n) ăn uống, chế độ ăn"
+  },
+  {
+    "h": "印刷",
+    "p": "yìnshuā",
+    "m": "in ấn"
+  },
+  {
+    "h": "硬",
+    "p": "yìng",
+    "m": "(adj) cứng"
+  },
+  {
+    "h": "应",
+    "p": "yīng",
+    "m": "(v) nên, phải"
+  },
+  {
+    "h": "硬件",
+    "p": "yìngjiàn",
+    "m": "(n) phần cứng (máy tính)"
+  },
+  {
+    "h": "意识",
+    "p": "yìshí",
+    "m": "ý thức"
+  },
+  {
+    "h": "以往",
+    "p": "yǐwǎng",
+    "m": "trước đây; xưa nay"
+  },
+  {
+    "h": "意味着",
+    "p": "yìwèizhe",
+    "m": "có nghĩa là"
+  },
+  {
+    "h": "一向",
+    "p": "yíxiàng",
+    "m": "(adv) xưa nay, luôn luôn"
+  },
+  {
+    "h": "意志",
+    "p": "yìzhì",
+    "m": "ý chí"
+  },
+  {
+    "h": "用不着",
+    "p": "yòng bù zháo",
+    "m": "không cần (khẩu ngữ)"
+  },
+  {
+    "h": "用来",
+    "p": "yòng lái",
+    "m": "dùng để"
+  },
+  {
+    "h": "用于",
+    "p": "yòng yú",
+    "m": "dùng cho (một mục đích cụ thể, thiên về công dụng/mục đích)"
+  },
+  {
+    "h": "拥抱",
+    "p": "yōngbào",
+    "m": "ôm chặt (tràn đầy cảm xúc)"
+  },
+  {
+    "h": "用户",
+    "p": "yònghù",
+    "m": "người dùng"
+  },
+  {
+    "h": "拥有",
+    "p": "yōngyǒu",
+    "m": "(v) sở hữu, có"
+  },
+  {
+    "h": "由此",
+    "p": "yóu cǐ",
+    "m": "từ đó, do đó, vì vậy → dùng để chỉ kết quả hoặc hệ quả rút ra từ điều vừa nêu"
+  },
+  {
+    "h": "游泳池",
+    "p": "yóu yǒng chí",
+    "m": "hồ bơi"
+  },
+  {
+    "h": "有毒",
+    "p": "yǒu dú",
+    "m": "có độc"
+  },
+  {
+    "h": "有害",
+    "p": "yǒu hài",
+    "m": "có hại"
+  },
+  {
+    "h": "有利于",
+    "p": "yǒu lì yú",
+    "m": "có lợi cho"
+  },
+  {
+    "h": "有着",
+    "p": "yǒu zhe",
+    "m": "(v) có (trạng thái kéo dài)"
+  },
+  {
+    "h": "有力",
+    "p": "yǒu lì",
+    "m": "mạnh mẽ, có sức thuyết phục, hiệu quả rõ ràng (thường nói về lập luận, biện pháp, bằng chứng, hành động)"
+  },
+  {
+    "h": "优惠",
+    "p": "yōuhuì",
+    "m": "ưu đãi"
+  },
+  {
+    "h": "幽默",
+    "p": "yōumò",
+    "m": "hài hước"
+  },
+  {
+    "h": "尤其",
+    "p": "yóuqí",
+    "m": "(adv) đặc biệt, nhất là (nhấn mạnh một yếu tố cụ thể trong số nhiều yếu tố)"
+  },
+  {
+    "h": "优先",
+    "p": "yōuxiān",
+    "m": "ưu tiên"
+  },
+  {
+    "h": "友谊",
+    "p": "yǒuyì",
+    "m": "hữu nghị, tình bạn"
+  },
+  {
+    "h": "犹豫",
+    "p": "yóuyù",
+    "m": "do dự"
+  },
+  {
+    "h": "预备",
+    "p": "yù bèi",
+    "m": "dự bị"
+  },
+  {
+    "h": "雨水",
+    "p": "yǔ shuǐ",
+    "m": "nước mưa"
+  },
+  {
+    "h": "怨",
+    "p": "yuàn",
+    "m": "trách (oán trách; trách móc)"
+  },
+  {
+    "h": "愿",
+    "p": "yuàn",
+    "m": "nguyện; nguyện cầu"
+  },
+  {
+    "h": "远处",
+    "p": "yuǎn chù",
+    "m": "(n) xa xa, đằng xa"
+  },
+  {
+    "h": "原有",
+    "p": "yuán yǒu",
+    "m": "vốn có, có sẵn từ trước, ban đầu đã có (trước khi có sự thay đổi)"
+  },
+  {
+    "h": "元旦",
+    "p": "yuándàn",
+    "m": "(n) Tết dương lịch"
+  },
+  {
+    "h": "原理",
+    "p": "yuánlǐ",
+    "m": "nguyên lý"
+  },
+  {
+    "h": "园林",
+    "p": "yuánlín",
+    "m": "(n) vườn cảnh, vườn cây"
+  },
+  {
+    "h": "原始",
+    "p": "yuánshǐ",
+    "m": "nguyên thủy"
+  },
+  {
+    "h": "原先",
+    "p": "yuánxiān",
+    "m": "(adv) ban đầu, trước đây"
+  },
+  {
+    "h": "月饼",
+    "p": "yuè bǐng",
+    "m": "bánh Trung Thu"
+  },
+  {
+    "h": "阅览室",
+    "p": "yuè lǎn shì",
+    "m": "phòng đọc; phòng đọc sách"
+  },
+  {
+    "h": "月球",
+    "p": "yuè qiú",
+    "m": "mặt trăng"
+  },
+  {
+    "h": "约束",
+    "p": "yuēshù",
+    "m": "ràng buộc"
+  },
+  {
+    "h": "羽毛球",
+    "p": "yǔmáoqiú",
+    "m": "cầu lông"
+  },
+  {
+    "h": "运",
+    "p": "yùn",
+    "m": "vận chuyển, vận động"
+  },
+  {
+    "h": "运行",
+    "p": "yùnxíng",
+    "m": "vận hành, chạy (theo nghĩa kỹ thuật)"
+  },
+  {
+    "h": "预期",
+    "p": "yùqī",
+    "m": "dự kiến; mong đợi"
+  },
+  {
+    "h": "羽绒服",
+    "p": "yǔróngfú",
+    "m": "(n) áo lông vũ"
+  },
+  {
+    "h": "灾",
+    "p": "zāi",
+    "m": "1. tai họa, tai nạn; 2. điều không may"
+  },
+  {
+    "h": "再次",
+    "p": "zài cì",
+    "m": "lại lần nữa"
+  },
+  {
+    "h": "在内",
+    "p": "zài nèi",
+    "m": "bao gồm cả, tính cả"
+  },
+  {
+    "h": "再也",
+    "p": "zài yě",
+    "m": "không bao giờ...nữa (đi cùng 不 / 没)"
+  },
+  {
+    "h": "灾区",
+    "p": "zāi qū",
+    "m": "khu vực xảy ra tai họa"
+  },
+  {
+    "h": "在场",
+    "p": "zài chǎng",
+    "m": "có mặt tại hiện trường / tại chỗ xảy ra sự việc"
+  },
+  {
+    "h": "灾害",
+    "p": "zāihài",
+    "m": "thiên tai"
+  },
+  {
+    "h": "灾难",
+    "p": "zāinàn",
+    "m": "tai nạn; thảm họa"
+  },
+  {
+    "h": "暂停",
+    "p": "zàn tíng",
+    "m": "tạm dừng"
+  },
+  {
+    "h": "暂时",
+    "p": "zànshí",
+    "m": "tạm thời"
+  },
+  {
+    "h": "糟",
+    "p": "zāo",
+    "m": "tệ, xấu, hỏng"
+  },
+  {
+    "h": "早期",
+    "p": "zǎo qī",
+    "m": "thời kỳ đầu, giai đoạn đầu"
+  },
+  {
+    "h": "糟糕",
+    "p": "zāogāo",
+    "m": "(adj) hỏng, hỏng bét, tệ, tồi tệ"
+  },
+  {
+    "h": "赠",
+    "p": "zèng",
+    "m": "biếu; tặng (trang trọng)"
+  },
+  {
+    "h": "增",
+    "p": "zēng",
+    "m": "tăng, tăng thêm"
+  },
+  {
+    "h": "增产",
+    "p": "zēng chǎn",
+    "m": "tăng sản lượng"
+  },
+  {
+    "h": "增多",
+    "p": "zēng duō",
+    "m": "tăng nhanh; tăng nhiều"
+  },
+  {
+    "h": "增强",
+    "p": "zēng qiáng",
+    "m": "tăng cường"
+  },
+  {
+    "h": "增大",
+    "p": "zēng dà",
+    "m": "tăng lên; làm cho lớn hơn"
+  },
+  {
+    "h": "赠送",
+    "p": "zèngsòng",
+    "m": "tặng, biếu"
+  },
+  {
+    "h": "摘",
+    "p": "zhāi",
+    "m": "hái (trái cây, hoa...) gỡ xuống, tháo ra (vật trên cơ thể hoặc đồ vật)"
+  },
+  {
+    "h": "占有",
+    "p": "zhàn yǒu",
+    "m": "chiếm hữu"
+  },
+  {
+    "h": "展览",
+    "p": "zhǎnlǎn",
+    "m": "triển lãm"
+  },
+  {
+    "h": "占领",
+    "p": "zhànlǐng",
+    "m": "chiếm lĩnh"
+  },
+  {
+    "h": "展示",
+    "p": "zhǎnshì",
+    "m": "trưng bày"
+  },
+  {
+    "h": "展现",
+    "p": "zhǎnxiàn",
+    "m": "thể hiện ra, bộc lộ ra, làm cho người khác thấy rõ (phẩm chất, đặc điểm, thành tựu, hình ảnh…)"
+  },
+  {
+    "h": "涨",
+    "p": "zhǎng",
+    "m": "tăng (giá cả, lương)"
+  },
+  {
+    "h": "涨价",
+    "p": "zhǎng jià",
+    "m": "tăng giá"
+  },
+  {
+    "h": "掌握",
+    "p": "zhǎngwò",
+    "m": "nắm vững"
+  },
+  {
+    "h": "招生",
+    "p": "zhāo shēng",
+    "m": "chiêu sinh; tuyển sinh"
+  },
+  {
+    "h": "招手",
+    "p": "zhāo shǒu",
+    "m": "vẫy tay; vẫy chào"
+  },
+  {
+    "h": "真诚",
+    "p": "zhēn chéng",
+    "m": "chân thành"
+  },
+  {
+    "h": "振动",
+    "p": "zhèndòng",
+    "m": "chấn động; rung động; rung"
+  },
+  {
+    "h": "诊断",
+    "p": "zhěnduàn",
+    "m": "chẩn đoán"
+  },
+  {
+    "h": "震惊",
+    "p": "zhènjīng",
+    "m": "sốc, chấn động, kinh ngạc"
+  },
+  {
+    "h": "真理",
+    "p": "zhēnlǐ",
+    "m": "chân lý"
+  },
+  {
+    "h": "珍惜",
+    "p": "zhēnxī",
+    "m": "trân quý; quý trọng; trân trọng"
+  },
+  {
+    "h": "真相",
+    "p": "zhēnxiàng",
+    "m": "chân tướng; sự thật"
+  },
+  {
+    "h": "珍珠",
+    "p": "zhēnzhū",
+    "m": "trân châu; ngọc trai"
+  },
+  {
+    "h": "挣",
+    "p": "zhèng",
+    "m": "kiếm (kiếm tiền bằng sức lao động)"
+  },
+  {
+    "h": "挣钱",
+    "p": "zhèng qián",
+    "m": "kiếm tiền"
+  },
+  {
+    "h": "正版",
+    "p": "zhèng bǎn",
+    "m": "bản chính hãng, bản gốc hợp pháp (không phải hàng lậu / hàng sao chép trái phép)"
+  },
+  {
+    "h": "正如",
+    "p": "zhèng rú",
+    "m": "đúng như, chính như (dùng để dẫn ra sự so sánh hoặc dẫn chứng đã được nói đến)"
+  },
+  {
+    "h": "正规",
+    "p": "zhèngguī",
+    "m": "chính quy; bài bản"
+  },
+  {
+    "h": "证实",
+    "p": "zhèngshí",
+    "m": "(v) chứng thực, xác nhận"
+  },
+  {
+    "h": "证书",
+    "p": "zhèngshū",
+    "m": "chứng chỉ"
+  },
+  {
+    "h": "珍贵",
+    "p": "zhēnguì",
+    "m": "quý giá"
+  },
+  {
+    "h": "正义",
+    "p": "zhèngyì",
+    "m": "chính nghĩa"
+  },
+  {
+    "h": "争议",
+    "p": "zhēngyì",
+    "m": "tranh cãi"
+  },
+  {
+    "h": "至",
+    "p": "zhì",
+    "m": "đến, tới (chỉ thời gian, địa điểm, mức độ)"
+  },
+  {
+    "h": "制成",
+    "p": "zhì chéng",
+    "m": "chế thành"
+  },
+  {
+    "h": "之内",
+    "p": "zhī nèi",
+    "m": "nội trong; trong vòng"
+  },
+  {
+    "h": "之外",
+    "p": "zhī wài",
+    "m": "ngoài, ngoài ra"
+  },
+  {
+    "h": "之下",
+    "p": "zhī xià",
+    "m": "ở dưới"
+  },
+  {
+    "h": "直线",
+    "p": "zhí xiàn",
+    "m": "đường thẳng"
+  },
+  {
+    "h": "只不过",
+    "p": "zhǐ bú guò",
+    "m": "chỉ là"
+  },
+  {
+    "h": "只见",
+    "p": "zhǐ jiàn",
+    "m": "chỉ thấy"
+  },
+  {
+    "h": "之中",
+    "p": "zhī zhōng",
+    "m": "trong …"
+  },
+  {
+    "h": "治安",
+    "p": "zhì’ān",
+    "m": "an ninh trật tự"
+  },
+  {
+    "h": "值班",
+    "p": "zhíbān",
+    "m": "trực ban"
+  },
+  {
+    "h": "指标",
+    "p": "zhǐbiāo",
+    "m": "chỉ tiêu"
+  },
+  {
+    "h": "支出",
+    "p": "zhīchū",
+    "m": "chi tiêu"
+  },
+  {
+    "h": "指甲",
+    "p": "zhǐjia",
+    "m": "móng tay"
+  },
+  {
+    "h": "治理",
+    "p": "zhìlǐ",
+    "m": "quản lý"
+  },
+  {
+    "h": "职能",
+    "p": "zhínéng",
+    "m": "chức năng"
+  },
+  {
+    "h": "支配",
+    "p": "zhīpèi",
+    "m": "chi phối"
+  },
+  {
+    "h": "指示",
+    "p": "zhǐshì",
+    "m": "chỉ thị"
+  },
+  {
+    "h": "职位",
+    "p": "zhíwèi",
+    "m": "vị trí công việc"
+  },
+  {
+    "h": "职务",
+    "p": "zhíwù",
+    "m": "chức vụ"
+  },
+  {
+    "h": "执行",
+    "p": "zhíxíng",
+    "m": "chấp hành"
+  },
+  {
+    "h": "制约",
+    "p": "zhìyuē",
+    "m": "kiềm chế, hạn chế"
+  },
+  {
+    "h": "指责",
+    "p": "zhǐzé",
+    "m": "chỉ trích"
+  },
+  {
+    "h": "众多",
+    "p": "zhòng duō",
+    "m": "rất nhiều; đông đảo (chỉ người)"
+  },
+  {
+    "h": "中毒",
+    "p": "zhòng dú",
+    "m": "(v) trúng độc, nhiễm độc, ngộ độc, nhiễm virus"
+  },
+  {
+    "h": "中秋节",
+    "p": "zhōng qiū jié",
+    "m": "Tết Trung Thu"
+  },
+  {
+    "h": "中药",
+    "p": "zhōng yào",
+    "m": "thuốc Đông y; thuốc bắc"
+  },
+  {
+    "h": "终点",
+    "p": "zhōngdiǎn",
+    "m": "điểm cuối"
+  },
+  {
+    "h": "中断",
+    "p": "zhōngduàn",
+    "m": "gián đoạn"
+  },
+  {
+    "h": "终身",
+    "p": "zhōngshēn",
+    "m": "(adj) suốt đời"
+  },
+  {
+    "h": "中央",
+    "p": "zhōngyāng",
+    "m": "trung ương"
+  },
+  {
+    "h": "终止",
+    "p": "zhōngzhǐ",
+    "m": "chấm dứt"
+  },
+  {
+    "h": "周期",
+    "p": "zhōuqī",
+    "m": "chu kỳ"
+  },
+  {
+    "h": "主体",
+    "p": "zhǔ tǐ",
+    "m": "chủ thể"
+  },
+  {
+    "h": "专辑",
+    "p": "zhuān jí",
+    "m": "Album"
+  },
+  {
+    "h": "转换",
+    "p": "zhuǎn huàn",
+    "m": "chuyển đổi"
+  },
+  {
+    "h": "转向",
+    "p": "zhuǎn xiàng",
+    "m": "chuyển hướng"
+  },
+  {
+    "h": "转化",
+    "p": "zhuǎn huà",
+    "m": "chuyển hóa"
+  },
+  {
+    "h": "专利",
+    "p": "zhuānlì",
+    "m": "bằng sáng chế"
+  },
+  {
+    "h": "转让",
+    "p": "zhuǎnràng",
+    "m": "chuyển nhượng"
+  },
+  {
+    "h": "撞",
+    "p": "zhuàng",
+    "m": "(v) đâm, va"
+  },
+  {
+    "h": "装饰",
+    "p": "zhuāngshì",
+    "m": "trang trí, trang hoàng"
+  },
+  {
+    "h": "主办",
+    "p": "zhǔbàn",
+    "m": "chủ trì tổ chức, đứng ra tổ chức (một sự kiện, hoạt động)"
+  },
+  {
+    "h": "注册",
+    "p": "zhùcè",
+    "m": "đăng kí (đăng kí tài khoản)"
+  },
+  {
+    "h": "主导",
+    "p": "zhǔdǎo",
+    "m": "chủ đạo"
+  },
+  {
+    "h": "主管",
+    "p": "zhǔguǎn",
+    "m": "chủ quản"
+  },
+  {
+    "h": "主观",
+    "p": "zhǔguān",
+    "m": "chủ quan"
+  },
+  {
+    "h": "祝贺",
+    "p": "zhùhè",
+    "m": "chúc mừng"
+  },
+  {
+    "h": "助理",
+    "p": "zhùlǐ",
+    "m": "trợ lý"
+  },
+  {
+    "h": "注射",
+    "p": "zhùshè",
+    "m": "tiêm"
+  },
+  {
+    "h": "注视",
+    "p": "zhùshì",
+    "m": "nhìn chăm chú, nhìn chằm chằm"
+  },
+  {
+    "h": "助手",
+    "p": "zhùshǒu",
+    "m": "trợ thủ"
+  },
+  {
+    "h": "注重",
+    "p": "zhùzhòng",
+    "m": "chú trọng"
+  },
+  {
+    "h": "竹子",
+    "p": "zhúzi",
+    "m": "cây tre"
+  },
+  {
+    "h": "紫",
+    "p": "zǐ",
+    "m": "tím"
+  },
+  {
+    "h": "自杀",
+    "p": "zì shā",
+    "m": "tự sát"
+  },
+  {
+    "h": "资本",
+    "p": "zīběn",
+    "m": "vốn, tư bản"
+  },
+  {
+    "h": "资产",
+    "p": "zīchǎn",
+    "m": "tài sản"
+  },
+  {
+    "h": "子弹",
+    "p": "zǐdàn",
+    "m": "đạn"
+  },
+  {
+    "h": "自豪",
+    "p": "zìháo",
+    "m": "tự hào"
+  },
+  {
+    "h": "仔细",
+    "p": "zǐxì",
+    "m": "(adj) tỉ mỉ, cẩn thận (dùng để miêu tả cách làm việc, xem xét vấn đề một cách kĩ lưỡng chi tiết)"
+  },
+  {
+    "h": "自愿",
+    "p": "zìyuàn",
+    "m": "tự nguyện"
+  },
+  {
+    "h": "资助",
+    "p": "zīzhù",
+    "m": "tài trợ"
+  },
+  {
+    "h": "总数",
+    "p": "zǒng shù",
+    "m": "tổng số"
+  },
+  {
+    "h": "总体",
+    "p": "zǒng tǐ",
+    "m": "tổng thể"
+  },
+  {
+    "h": "总裁",
+    "p": "zǒngcái",
+    "m": "tổng tài; chủ tịch tập đoàn; tổng giám đốc"
+  },
+  {
+    "h": "总算",
+    "p": "zǒngsuàn",
+    "m": "cuối cùng thì..."
+  },
+  {
+    "h": "阻碍",
+    "p": "zǔ’ài",
+    "m": "cản trở"
+  },
+  {
+    "h": "醉",
+    "p": "zuì",
+    "m": "say, xỉn"
+  },
+  {
+    "h": "尊敬",
+    "p": "zūnjìng",
+    "m": "(v) tôn kính, kính trọng (adj) đáng kính; đáng kính trọng"
+  },
+  {
+    "h": "遵守",
+    "p": "zūnshǒu",
+    "m": "(v) tuân thủ"
+  },
+  {
+    "h": "尊重",
+    "p": "zūnzhòng",
+    "m": "tôn trọng"
+  },
+  {
+    "h": "组织",
+    "p": "zǔzhī",
+    "m": "(v, n) tổ chức"
+  }
+]

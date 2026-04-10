@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>HSK Pro - Chuyển Trang</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Segoe UI', sans-serif; background-color: #f7f9fc; padding: 40px; display: flex; justify-content: center; }
+        .botuvung-container { width: 100%; max-width: 1000px; }
+        
+        /* Giao diện nút bấm và lưới thẻ */
+        .top-actions { display: flex; align-items: center; gap: 15px; margin-bottom: 30px; }
+        .btn-create { background: #76d213; color: white; border: none; padding: 12px 25px; border-radius: 15px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 0 #5eab0f; }
+        .btn-path { background: #ffc107; color: #333; border: none; padding: 12px 25px; border-radius: 15px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 0 #d39e00; }
+        .btn-my-sets { margin-left: auto; background: #f3e5f5; color: #8e44ad; padding: 10px 20px; border-radius: 20px; font-size: 14px; font-weight: bold; }
+        .vocab-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+        .vocab-item { background: white; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.05); border: 1px solid #eee; overflow: hidden; transition: 0.3s; cursor: pointer; }
+        .vocab-item:hover { transform: translateY(-5px); border-color: #8e44ad; }
+        .item-main { padding: 20px; }
+        .item-header { display: flex; gap: 12px; margin-bottom: 15px; }
+        .item-footer { padding: 15px 20px; border-top: 1px solid #f5f5f5; display: flex; justify-content: space-between; align-items: center; }
+        .btn-view { color: white; border: none; padding: 8px 20px; border-radius: 20px; font-weight: bold; }
+
+        /* Trang học tập - Premium Style */
+        #trang-hoc-tap {
+            display: none; 
+            background: #ffffff;
+            min-height: 600px;
+            width: 100%;
+            border-radius: 30px;
+            padding: 40px;
+            box-shadow: 0 20px 50px rgba(142, 68, 173, 0.08);
+            border: 1px solid rgba(0,0,0,0.03);
+            animation: slideUp 0.5s ease-out;
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .btn-back {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: #f8f9fa;
+            color: #555;
+            border: 1px solid #eee;
+            padding: 12px 22px;
+            border-radius: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .btn-back:hover {
+            background: #ffffff;
+            border-color: #8e44ad;
+            color: #8e44ad;
+            box-shadow: 0 5px 15px rgba(142, 68, 173, 0.1);
+        }
+
+        .learning-zone {
+            margin: 40px auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 350px;
+            background: linear-gradient(180deg, #fdfbff 0%, #ffffff 100%);
+            border-radius: 25px;
+            position: relative;
+        }
+
+        .flashcard-wrapper {
+            perspective: 1000px;
+            width: 320px;
+            height: 480px; /* Tăng nhẹ chiều cao để chứa nghĩa chi tiết */
+            margin: 20px auto;
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            cursor: pointer;
+        }
+
+        .flashcard-inner.is-flipped {
+            transform: rotateY(180deg);
+        }
+
+        .card-front, .card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            border-radius: 30px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+
+        .card-front {
+            background: white;
+            border: 1px solid #eee;
+        }
+
+        .card-back {
+            background: #fdfbff;
+            color: #333;
+            transform: rotateY(180deg);
+            border: 2px solid #8e44ad;
+            overflow-y: auto; /* Cho phép cuộn nếu nghĩa quá dài */
+        }
+
+        .hanzi-text { font-size: 85px; color: #2d3436; font-weight: 600; }
+        .pinyin-text { font-size: 26px; color: #8e44ad; margin-top: 10px; font-weight: 500; }
+
+        .control-btns {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 40px;
+            width: 100%;
+        }
+
+        .btn-ctrl {
+            border: none;
+            padding: 15px 25px;
+            border-radius: 20px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.3s;
+            color: white;
+            flex: 1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="botuvung-container">
+        <div id="trang-chon-bo">
+            <div class="top-actions">
+                <button class="btn-create">+ TẠO BỘ TỪ MỚI</button>
+                <button class="btn-path">🧭 LỘ TRÌNH</button>
+                <div class="btn-my-sets" id="btn-login-text">🟪 Bộ từ của tôi</div>
+            </div>
+            <div class="vocab-grid" id="hsk-container"></div>
+        </div>
+
+        <div id="trang-hoc-tap">
+            <div style="display: flex; align-items: center; justify-content: space-between;">
+                <button class="btn-back" onclick="quayLai()">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+                    QUAY LẠI
+                </button>
+                <div style="text-align: center;">
+                    <p style="text-transform: uppercase; letter-spacing: 2px; font-size: 11px; color: #aaa; margin-bottom: 5px; font-weight: 700;">ĐANG HỌC LỘ TRÌNH</p>
+                    <h2 id="ten-bo-dang-hoc" style="color: #2d3436; font-size: 24px; font-weight: 800;">HSK 1</h2>
+                </div>
+                <button style="background: none; border: none; font-size: 20px; cursor: pointer; color: #ccc;">⚙️</button>
+            </div>
+
+            <div style="width: 100%; height: 6px; background: #f0f0f0; border-radius: 10px; margin-top: 30px; overflow: hidden;">
+                <div id="progress-bar" style="width: 0%; height: 100%; background: linear-gradient(90deg, #8e44ad, #a29bfe); border-radius: 10px; transition: 0.5s;"></div>
+            </div>
+
+            <div class="learning-zone">
+                <div class="flashcard-wrapper">
+                    <div class="flashcard-inner" id="card-inner" onclick="flipCard()">
+                        <div class="card-front">
+                            <h1 class="hanzi-text" id="display-hanzi">你好</h1>
+                            <button onclick="event.stopPropagation(); speakHanzi(document.getElementById('display-hanzi').innerText)" 
+                                    style="background: #f1f2f6; border: none; font-size: 24px; cursor: pointer; margin-top: 20px; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: 0.2s;">
+                                🔊
+                            </button>
+                            <p style="color: #bbb; font-size: 13px; margin-top: 15px;">Chạm để xem nghĩa</p>
+                        </div>
+                        
+                        <div class="card-back">
+                            <p class="pinyin-text" id="display-pinyin">nǐ hǎo</p>
+                            <div style="width: 40px; height: 2px; background: #eee; margin: 15px 0;"></div>
+                            <div id="display-meaning" style="width: 100%;">
+                                </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="control-btns">
+                    <button id="undo-btn" class="btn-ctrl" style="background: #636e72;" onclick="undoPreviousCard()">↩</button>
+                    <button class="btn-ctrl" style="background: #ff7675;" onclick="handleKnowledge(false)">QUÊN RỒI</button>
+                    <button class="btn-ctrl" style="background: #55efc4; color: #00b894;" onclick="handleKnowledge(true)">ĐÃ THUỘC</button>
+                </div>
+
+                <div style="text-align: center; color: #dfe6e9; font-size: 12px; margin-top: 20px;">
+                    © 2026 Luyentu App • Học tập thông minh mỗi ngày
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script>
+const hskLevels = [
+    { lv: 1, name: "HSK 1", color: "#76d213" },
+    { lv: 2, name: "HSK 2", color: "#4facfe" },
+    { lv: 3, name: "HSK 3", color: "#00f2fe" },
+    { lv: 4, name: "HSK 4", color: "#f6d365" },
+    { lv: 5, name: "HSK 5", color: "#fda085" },
+    { lv: 6, name: "HSK 6", color: "#f093fb" },
+    { lv: 7, name: "HSK 7", color: "#ff0844" },
+    { lv: 8, name: "HSK 8", color: "#a18cd1" },
+    { lv: 9, name: "HSK 9", color: "#30cfd0" }
+];
+
+let currentWords = [];
+let currentIdx = 0;
+let previousIdx = null;
+let currentLvHoc = 1;
+
+async function autoUpdateTotals() {
+    for (let item of hskLevels) {
+        if (!localStorage.getItem(`hsk_total_lv${item.lv}`)) {
+            try {
+                const response = await fetch(`hsk${item.lv}.json`);
+                if (response.ok) {
+                    const data = await response.json();
+                    localStorage.setItem(`hsk_total_lv${item.lv}`, data.length);
+                }
+            } catch (e) {}
+        }
+    }
+    renderHSK();
+}
+
+function renderHSK() {
+    const container = document.getElementById('hsk-container');
+    if (!container) return;
+    container.innerHTML = hskLevels.map(item => {
+        const progress = JSON.parse(localStorage.getItem(`hsk_progress_lv${item.lv}`) || "{}");
+        const learnedCount = Object.values(progress).filter(v => v > 0).length;
+        const totalCount = localStorage.getItem(`hsk_total_lv${item.lv}`) || "...";
+        return `
+            <div class="vocab-item" style="border-top: 5px solid ${item.color}" onclick="moTrangHoc(${item.lv}, '${item.name}')">
+                <div class="item-main">
+                    <div class="item-header">
+                        <span style="font-size:24px">📜</span>
+                        <div><h3>${item.name}</h3><p style="font-size: 11px; color:#aaa">Spaced Repetition</p></div>
+                    </div>
+                    <div style="font-size: 14px; color:#666">📋 <span>${learnedCount}/${totalCount}</span> từ đã học</div>
+                </div>
+                <div class="item-footer">
+                    <button class="btn-view" style="background:${item.color}">Học ngay</button>
+                    <div style="color:#bbb" onclick="event.stopPropagation(); resetProgress(${item.lv})">🗑️</div>
+                </div>
+            </div>`;
+    }).join('');
+}
+
+async function moTrangHoc(lv, tenBo) {
+    currentLvHoc = lv;
+    document.getElementById('trang-chon-bo').style.display = 'none';
+    document.getElementById('trang-hoc-tap').style.display = 'block';
+    try {
+        const response = await fetch(`hsk${lv}.json`);
+        const data = await response.json();
+        localStorage.setItem(`hsk_total_lv${lv}`, data.length);
+        const progress = JSON.parse(localStorage.getItem(`hsk_progress_lv${lv}`) || "{}");
+        currentWords = data.map(word => ({...word, level: progress[word.h] || 0})).sort((a, b) => a.level - b.level);
+        currentIdx = 0;
+        document.getElementById('ten-bo-dang-hoc').innerText = "Đang học: " + tenBo;
+        showCurrentCard();
+        updateProgress();
+    } catch (err) {
+        alert("Lỗi: Không tìm thấy file hsk" + lv + ".json");
+        quayLai();
+    }
+}
+
+function showCurrentCard() {
+    if (currentWords.length === 0) return;
+    const word = currentWords[currentIdx];
+    
+    document.getElementById('display-hanzi').innerText = word.h;
+    document.getElementById('display-pinyin').innerHTML = word.p;
+
+    // TÁCH M RA THÀNH 3 VÙNG: NGHĨA | VÍ DỤ | CHIẾT TỰ
+    const parts = word.m.split('|');
+    const nghia = parts[0] ? parts[0].trim() : "";
+    const vidu = parts[1] ? parts[1].trim() : "";
+    const chietTu = parts[2] ? parts[2].trim() : "";
+
+    document.getElementById('display-meaning').innerHTML = `
+        <div style="font-weight: bold; color: #2d3436; margin-bottom: 10px; font-size: 20px;">${nghia}</div>
+        ${vidu ? `<div style="font-style: italic; color: #636e72; background: #f9f9f9; padding: 10px; border-left: 3px solid #8e44ad; margin: 10px 0; font-size: 15px;">"${vidu}"</div>` : ''}
+        <div style="color: #b2bec3; font-size: 13px; line-height: 1.6; margin-top: 10px; text-align: left;">
+            ${chietTu.replace(/->/g, '<br><strong>→</strong>').replace(/([A-Z]{2,}\s-)/g, '<br>$1')}
+        </div>
+        <div style="margin-top: 15px; color: #8e44ad; font-weight: 800; font-size: 12px;">HSK ${currentLvHoc}</div>
+    `;
+
+    document.getElementById('card-inner').classList.remove('is-flipped');
+    speakHanzi(word.h);
+}
+
+function speakHanzi(text) {
+    if (!('speechSynthesis' in window)) return;
+    window.speechSynthesis.cancel();
+    const msg = new SpeechSynthesisUtterance(text);
+    const voices = window.speechSynthesis.getVoices();
+    let selectedVoice = voices.find(v => v.name.includes('Google') && v.lang.includes('zh-CN')) ||
+                        voices.find(v => v.name.includes('Xiaoxiao')) ||
+                        voices.find(v => v.lang.includes('zh-CN'));
+    if (selectedVoice) msg.voice = selectedVoice;
+    msg.lang = 'zh-CN';
+    msg.rate = 0.8;
+    window.speechSynthesis.speak(msg);
+}
+
+if ('speechSynthesis' in window) {
+    window.speechSynthesis.onvoiceschanged = () => window.speechSynthesis.getVoices();
+}
+
+function handleKnowledge(isMastered) {
+    previousIdx = currentIdx;
+    if (currentWords.length === 0) return;
+    const word = currentWords[currentIdx];
+    let progress = JSON.parse(localStorage.getItem(`hsk_progress_lv${currentLvHoc}`) || "{}");
+    word.level = isMastered ? Math.min((word.level || 0) + 1, 5) : 0;
+    progress[word.h] = word.level;
+    localStorage.setItem(`hsk_progress_lv${currentLvHoc}`, JSON.stringify(progress));
+    if (window.saveToCloud) window.saveToCloud(currentLvHoc, progress);
+    nextCard();
+}
+
+function nextCard() {
+    document.getElementById('card-inner').classList.remove('is-flipped');
+    setTimeout(() => {
+        currentIdx = (currentIdx + 1) % currentWords.length;
+        showCurrentCard();
+        updateProgress();
+    }, 200);
+}
+
+function undoPreviousCard() {
+    if (previousIdx !== null) {
+        currentIdx = previousIdx;
+        showCurrentCard();
+        updateProgress();
+        previousIdx = null;
+    } else {
+        alert("Chưa có từ nào trước đó để quay lại!");
+    }
+}
+
+function updateProgress() {
+    if (currentWords.length === 0) return;
+    const percent = ((currentIdx + 1) / currentWords.length) * 100;
+    document.getElementById('progress-bar').style.width = percent + "%";
+}
+
+function flipCard() { document.getElementById('card-inner').classList.toggle('is-flipped'); }
+function quayLai() { document.getElementById('trang-chon-bo').style.display = 'block'; document.getElementById('trang-hoc-tap').style.display = 'none'; renderHSK(); }
+function resetProgress(lv) { if(confirm("Xoá hết?")) { localStorage.removeItem(`hsk_progress_lv${lv}`); renderHSK(); }}
+
+renderHSK();
+autoUpdateTotals();
+</script>
+
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+    import { getAuth, signInWithPopup, GoogleAuthProvider, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-auth.js";
+    import { getFirestore, doc, setDoc, getDoc } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore.js";
+
+    const firebaseConfig = {
+        apiKey: "AIzaSyDYy8tU8RAFnExChBdKeFTaONmukvJfUo4",
+        authDomain: "hsk---pro.firebaseapp.com",
+        projectId: "hsk---pro",
+        storageBucket: "hsk---pro.firebasestorage.app",
+        messagingSenderId: "66175828693",
+        appId: "1:66175828693:web:ffef9f68312d37de79985c",
+        measurementId: "G-7MGB4CHQ1W"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+    const db = getFirestore(app);
+    const provider = new GoogleAuthProvider();
+    let currentUser = null;
+
+    window.loginWithGoogle = async () => {
+        try {
+            const result = await signInWithPopup(auth, provider);
+            currentUser = result.user;
+            await syncCloudToLocal(currentUser.uid);
+            location.reload(); 
+        } catch (error) { alert("Lỗi: " + error.message); }
+    };
+
+    async function syncCloudToLocal(uid) {
+        for (let i = 1; i <= 9; i++) {
+            const userDoc = doc(db, "users", uid, "progress", `lv${i}`);
+            const snap = await getDoc(userDoc);
+            if (snap.exists()) localStorage.setItem(`hsk_progress_lv${i}`, JSON.stringify(snap.data()));
+        }
+    }
+
+    window.saveToCloud = async (lv, data) => {
+        if (!currentUser) return;
+        const userDoc = doc(db, "users", currentUser.uid, "progress", `lv${lv}`);
+        await setDoc(userDoc, data, { merge: true });
+    };
+
+    onAuthStateChanged(auth, (user) => {
+        if (user) {
+            currentUser = user;
+            const loginBtn = document.getElementById('btn-login-text');
+            if(loginBtn) loginBtn.innerText = "Chào " + user.displayName.split(' ').slice(-1);
+        }
+    });
+</script>
+</body>
+</html>
